@@ -25,8 +25,10 @@ Animés par la curiosité, la rigueur et un goût certain pour les mystères bie
 |----------------|----------------------|--------------------|--------------------|--------------------|
 | 🕵️ Steven     | *Blaireau Rusé*       | Co-Fondateur | 
 | 🪖 Yoni       | *Blaireau Tactique*   | Co-Fondateur | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
-| 📡 Alexis     | *Blaireau Technique*  | Membre       | [AlexisMrts](https://github.com/AlexisMrts)                 |
+| 📡 Alexis     | *Blaireau Technique*  | Membre       | [AlexisMrts](https://github.com/AlexisMrts)                 | <img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
 | 🦝 Doriane    | *Blairelle Réserviste* | Membre      | [rHACK00n](https://github.com/rHACK00n)                     | <img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
+
+
 
 
 
