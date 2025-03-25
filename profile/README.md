@@ -1,4 +1,7 @@
 # 🦡 Les Blaireaux des Légendes 🇫🇷
+
+<img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
+
 ### Devise: Blaireau Parfois, Légende Toujours !
 
 ![Blaireaux_des_Legendes](https://github.com/user-attachments/assets/4e2a1820-2e0a-4025-94e6-33a773ec34f7)
