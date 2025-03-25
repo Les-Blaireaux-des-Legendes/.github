@@ -37,7 +37,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les mystères bie
 
 ## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/4a36870c-87f8-424b-b9e1-26f4d4811baa">
 
-- 🥇 Première place sur +400 participants
+#### 🥇 Première place sur +400 participants
 
 > Troisième et dernière édition de l’HEXA OSINT CTF
 > Plus de 400 participants ont pris part à la compétition avec pour récompense la qualification à l’HEXA CTF FINALE pour les meilleures équipes au [Hack](https://lehack.org) à Paris
@@ -45,7 +45,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les mystères bie
 
 ## 🕵🏻‍♂️ Stranger Case OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
 
-- 🥈 2ème Place sur plus de 100 équipes dont 59 finalistes)
+#### 🥈 2ème Place sur plus de 100 équipes dont 59 finalistes
 
 > 3ème édition du Stranger Case, CTF orienté OSINT/Social Engineering
 > 1 première phase de qualifications
@@ -54,10 +54,12 @@ Animés par la curiosité, la rigueur et un goût certain pour les mystères bie
 
 ## 👢 CTF OSINT Le Bruit des Bottes by Oscar Zulu — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
-- 3ème Place sur 219 équipes
+#### 🥉 3ème Place sur 219 équipes
 
-> Deux phases, deux week-ends, 219 équipes au dépars
-> 6 équipes qui ont terminés le CTF  
+> Deux phases, deux week-ends, 219 équipes au départ
+
+> 6 équipes qui ont terminés le CTF
+
 > Challenges variés : HUMINT, évasion, manip sociale, rebondissements de polar
 
 ---
