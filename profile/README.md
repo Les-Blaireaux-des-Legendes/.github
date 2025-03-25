@@ -2,9 +2,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
 
+
 <p align="center"><em>Devise : Blaireau parfois, Légende toujours !</em></p>
 
-![Blaireaux_des_Legendes](https://github.com/user-attachments/assets/4e2a1820-2e0a-4025-94e6-33a773ec34f7)
+![Blaireaux_Des_Legendes](https://github.com/user-attachments/assets/652df04f-2ba7-4434-993b-73c6600643e4)
 
 
 # Qui sommes-nous ?
