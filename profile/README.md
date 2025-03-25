@@ -5,7 +5,7 @@
 
 <p align="center"><em>Devise : Blaireau parfois, Légende toujours !</em></p>
 
-![Blaireaux_Des_Legendes](https://github.com/user-attachments/assets/652df04f-2ba7-4434-993b-73c6600643e4)
+<img width="733" src="https://github.com/user-attachments/assets/652df04f-2ba7-4434-993b-73c6600643e4">
 
 
 # Qui sommes-nous ?
