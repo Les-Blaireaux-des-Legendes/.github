@@ -6,7 +6,7 @@
 
 <br>
 
-<img width="733" src="https://github.com/user-attachments/assets/652df04f-2ba7-4434-993b-73c6600643e4">
+<img width="633" src="https://github.com/user-attachments/assets/2e30e98c-20c3-4d0d-a1aa-f9aac8aa0e40">
 
 
 # Qui sommes-nous ?
