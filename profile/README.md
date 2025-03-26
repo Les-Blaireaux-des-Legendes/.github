@@ -11,9 +11,9 @@
 
 # Qui sommes-nous ?
 
-**Les Blaireaux des Légendes**, c’est une équipe CTF spécialisée en **OSINT**, fondée en **janvier 2024** à l’occasion du [**HEXA OSINT CTF**](https://hexaosint.fr). 
-Animés par la curiosité, la rigueur et un goût certain pour les mystères bien ficelés, nous traquons l’info là où elle se cache… et parfois même là où elle n'existe pas encore.
-L'équipe est composée de plusieurs professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). 
+Fondée en 2024, **Les Blaireaux des Légendes** est une équipe française composée de plusieurs professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). Nous participons à des compétitions d'investigations de type Capture The Flag (CTF) ou de recherche de personnes disparues avec l'ambition de promouvoir la discipline et faire rayonner les communautés francophones à l'international. 
+
+Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien ficelés, nous traquons l’information là où elle se cache… et parfois même là où elle n'existe pas encore. Fidèle à notre devise : **Blaireau parfois, Légende toujours!**
 
 
 ---
