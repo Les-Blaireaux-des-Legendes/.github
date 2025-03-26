@@ -39,12 +39,13 @@ Animés par la curiosité, la rigueur et un goût certain pour les mystères bie
 
 # 🏆 Nos faits d’armes
 
-## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/4a36870c-87f8-424b-b9e1-26f4d4811baa">
+## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48">
 
 #### 🥇 Première place sur +400 participants
 
 > Troisième et dernière édition de l’HEXA OSINT CTF
 > Plus de 400 participants ont pris part à la compétition avec pour récompense la qualification à l’HEXA CTF FINALE pour les meilleures équipes au [Hack](https://lehack.org) à Paris
+
 
 
 ## 🕵🏻‍♂️ Stranger Case OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
