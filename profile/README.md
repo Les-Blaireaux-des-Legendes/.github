@@ -53,11 +53,16 @@ L'équipe est composée de plusieurs professionnels de la cybersécurité et du 
 
 ## 🕵🏻‍♂️ Stranger Case OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
 
-#### 🥈 2ème Place sur plus de 100 équipes dont 59 finalistes
+#### 🥈 2ème Place sur plus de 100 équipes 
 
 > 3ème édition du Stranger Case, CTF orienté OSINT/Social Engineering
 > 1 première phase de qualifications
 > La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
+
+
+## Stranger Case X-Hunt Finale - 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
+
+#### 🥉 3ème Place sur 59 finalistes
 
 
 ## 👢 CTF OSINT Le Bruit des Bottes by Oscar Zulu — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
