@@ -72,14 +72,25 @@ Animés par la curiosité, la rigueur et un goût certain pour les mystères bie
 
 ---
 
-## 👮 CTE (Capture the Evidence) Gendarmerie Nationale   <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b">
+## 👮 CTE (Capture the Evidence) Gendarmerie Nationale — 2024  <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b">
 
-- 6ème place sur 170 équipes
+#### 6ème place sur 170 équipes
 
 > Capture The Evidence "Le Principe de Locard" organisé par la gendarmerie nationale (PACA)
 > 102 challenges répartis sur plusieurs catégories : reverse, web, osint, indus, IA, crypto, stegano
 
 ---
+
+## 🦊 HACK'OSINT - CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
+
+#### 8ème place sur 124 équipes 
+
+> https://ctftime.org/event/2392/
+> 124 équipes
+
+
+---
+
 
 ## 🐾 Pourquoi "Les Blaireaux" ?
 
