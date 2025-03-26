@@ -20,11 +20,13 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 # 🎯 Nos missions
 
-- Participer à des **Capture The Flag OSINT (CTF)** (et les terminer !)
-- Promouvoir la discipline et faire rayonner les communautés francophones à l'international.
-- Partager notre passion de l’OSINT et de l’enquête collaborative
-- Mettre nos compétences en **cyber-enquête, HUMINT, elicitation, social engineering** et **analyse numérique** à rude épreuve afin de se perfectionner et découvrir de nouveaux outils
-- Travailler en équipe (dans des conditions parfois extrêmes....nuits blanches, planning pro chargé, transports en commun)
+- Participer à des compétitions d'investigations Capture The Flag OSINT (CTF) et de recherches de personnes disparues
+- Participer à la promotion et à la professionnalisation de la discipline
+- Utiliser la gamification
+- Faire rayonner les communautés francophones à l'international
+- Partager notre passion de l’OSINT et de l’enquête collaborative avec une approche éthique
+- Mettre à rude épreuve et développer nos compétences d'investigations en sources ouvertes, renseignement d'origine cyber, HUMINT, social engineering  et techniques d'éllicitations ainsi que d'analyse numérique
+- Effectuer une veille collaborative sur les nouvelles techniques et outils afin de se perfectionner
 
 ---
 
