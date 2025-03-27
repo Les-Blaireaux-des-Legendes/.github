@@ -57,14 +57,13 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 #### 🥈 2ème Place sur plus de 100 équipes 
 
 > 3ème édition du Stranger Case, CTF orienté OSINT/Social Engineering
-> 1 première phase de qualifications
+> Une première phase de qualifications
 > La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
 
 
-## Stranger Case X-Hunt Finale - 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
+## Stranger Case X-Hunt Finale - 2024  <img width=51 src="https://github.com/user-attachments/assets/8d0eee10-fc5e-413a-8932-cd1f072e9074">
 
 #### 🥉 3ème Place sur 59 finalistes
-
 
 ## 👢 CTF OSINT Le Bruit des Bottes by Oscar Zulu — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
