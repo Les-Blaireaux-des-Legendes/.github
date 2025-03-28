@@ -47,33 +47,35 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 #### 🥇 Première place sur +400 participants
 
-> Troisième et dernière édition de l’HEXA OSINT CTF
-> Plus de 400 participants ont pris part à la compétition avec pour récompense la qualification à l’HEXA CTF FINALE pour les meilleures équipes au [Hack](https://lehack.org) à Paris
-
+- Dernière édition de l’HEXA OSINT CTF avec plus de 400 participants (+100 équipes) qui ont pris part à la compétition
+- 2 phases (1ère phase qualificative + finale à Paris)
+- Qualification à la finale de l’HEXA OSINT CTF au [Hack](https://lehack.org) à Paris.
+- Victoire des Blaireaux des légendes au Hack.
 
 
 ## 🕵🏻‍♂️ Stranger Case OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
 
 #### 🥈 2ème Place sur plus de 100 équipes 
 
-> 3ème édition du Stranger Case, CTF orienté OSINT/Social Engineering
-> Une première phase de qualifications
-> La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
+- 3ème édition du Stranger Case, CTF orienté OSINT/Social Engineering
+- Première phase qualificative
+- La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
 
 
 ## ⌖Stranger Case X-Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
 
 #### 🥉 3ème Place sur 59 finalistes
 
+
 ## 👢 CTF OSINT Le Bruit des Bottes by Oscar Zulu — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
 #### 🥉 3ème Place sur 219 équipes
 
-> Deux phases, deux week-ends, 219 équipes au départ
+- Deux phases, deux week-ends, 219 équipes au départ
 
-> 6 équipes qui ont terminés le CTF
+- 6 équipes qui ont terminés le CTF
 
-> Challenges variés : HUMINT, évasion, manip sociale, rebondissements de polar
+- Challenges variés : HUMINT, évasion, manip sociale, rebondissements de polar
 
 ---
 
@@ -81,8 +83,8 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 #### 6ème place sur 170 équipes
 
-> Capture The Evidence "Le Principe de Locard" organisé par la gendarmerie nationale (PACA)
-> 102 challenges répartis sur plusieurs catégories : reverse, web, osint, indus, IA, crypto, stegano
+- Capture The Evidence "Le Principe de Locard" organisé par la gendarmerie nationale (PACA)
+- 102 challenges répartis sur plusieurs catégories : reverse, web, osint, indus, IA, crypto, stegano
 
 ---
 
