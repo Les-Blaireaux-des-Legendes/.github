@@ -61,7 +61,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 > La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
 
 
-## Stranger Case X-Hunt Finale - 2024  <img width=51 src="https://github.com/user-attachments/assets/8d0eee10-fc5e-413a-8932-cd1f072e9074">
+## ⌖Stranger Case X-Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
 
 #### 🥉 3ème Place sur 59 finalistes
 
