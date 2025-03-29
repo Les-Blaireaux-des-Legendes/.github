@@ -95,9 +95,31 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 > https://ctftime.org/event/2392/
 > 124 équipes
 
+---
+
+## 🚩 Conception de CTF (Capture The Flag) ?
+
+Nous ne faisons pas que participer aux CTF : **nous les concevons aussi**.
+
+En 2025, nous avons eu l’honneur de co-construire un scénario pour l’édition Égide du Capture The Flag (CTF) organisé par le [Ministère des Armées](https://www.defense.gouv.fr), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et VIGINUM. 
+Ce défi, centré sur les **luttes contre les manipulations de l’information (LMI)**, visait à renforcer la résilience des agents à travers une enquête OSINT immersive et réaliste.
+
+🔗 **Lien vers l'événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
+
+
+Notre approche : créer des **scénarios narratifs forts**, ancrés dans des enjeux contemporains comme la désinformation, l’influence, ou encore les cyber-menaces. Nous croyons que l’apprentissage passe par l’expérience et que les meilleurs défis sont ceux qui font réfléchir autant qu’ils amusent.
+
+Un grand merci aux camarades de **Oscar Zulu**, **Tacosint**, **Projet FOX** et **HEXA** pour leur aide précieuse pendant les phases de bêta-test et leur soutien tout au long de cette aventure.
 
 ---
 
+📬 Pour en savoir plus ou collaborer avec nous, n’hésitez pas à nous contacter !
+
+*Les Blaireaux des Légendes – flair affûté, clavier aiguisé.*
+
+
+
+---
 
 ## 🐾 Pourquoi "Les Blaireaux" ?
 
