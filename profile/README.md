@@ -57,7 +57,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 #### 🥈 2ème Place sur plus de 100 équipes 
 
-- 3ème édition du Stranger Case, CTF orienté OSINT/Social Engineering
+- Stranger Case est un CTF orienté OSINT/Social Engineering
 - Première phase qualificative
 - La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
 
@@ -88,11 +88,20 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 ---
 
+## 💊 Medileak OSINT CTF — 2024 by Oscar Zulu <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+
+#### 6ème place sur +110 équipes
+
+
+---
+
+
 ## 🦊 HACK'OSINT - CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
 
 #### 8ème place sur 124 équipes 
 
 > https://ctftime.org/event/2392/
+
 > 124 équipes
 
 ---
