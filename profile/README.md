@@ -33,15 +33,30 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 | Nom            | Alias                | Rôle               | GitHub             | Avatar
 |----------------|----------------------|--------------------|--------------------|--------------------|
-| 🕵️ Steven     | *Blaireau Rusé*       | Co-Fondateur | [osinteur](https://github.com/osinteur)                     | <img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
-| 🪖 Yoni       | *Blaireau Tactique*   | Co-Fondateur | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
-| 📡 Alexis     | *Blaireau Technique*  | Membre       | [AlexisMrts](https://github.com/AlexisMrts)                 | <img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
-| 🦝 Doriane    | *Blairelle Réserviste* | Membre      | [rHACK00n](https://github.com/rHACK00n)                     | <img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
+| 🕵️ Steven     | *Blaireau Rusé*         | Co-Fondateur | [osinteur](https://github.com/osinteur)                     | <img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
+| 🪖 Yoni       | *Blaireau Tactique*     | Co-Fondateur | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
+| 📡 Alexis     | *Blaireau Technique*    | Membre       | [AlexisMrts](https://github.com/AlexisMrts)                 | <img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
+| 🦝 Doriane    | *Blairelle Réserviste*  | Membre       | [rHACK00n](https://github.com/rHACK00n)                     | <img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
+| 🥷 Soxoj      | *Blaireau Scientifique* | Membre       | [Soxoj](https://github.com/soxoj)                           | <img width="33" src="https://github.com/user-attachments/assets/8d43d4dd-1e1b-4d02-ad7f-9753d66217dc">
 
 
 ---
 
 # 🏆 Nos faits d’armes
+
+## 🔎 Trace Labs OSINT CTF — 2025.04  <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d">
+
+#### 🥇 Première place sur +100 équipes
+
+- CTF international d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre.
+
+- Compétition en temps réel, encadrée par Trace Labs.
+
+- Participation à 3 joueurs au lieu de 4, sous le nom anglophone "The Legendary Badgers 🦡"
+
+- Gold Badge décerné à l’équipe pour sa performance.
+
+
 
 ## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48">
 
