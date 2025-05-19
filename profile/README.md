@@ -123,7 +123,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 ---
 
-## 🚩 Conception de CTF (Capture The Flag) ?
+## 🚩 Conception de CTF (Capture The Flag) 🇫🇷
 
 Nous ne faisons pas que participer aux CTF : **nous les concevons aussi**.
 
