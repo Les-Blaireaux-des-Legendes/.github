@@ -55,7 +55,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 - Gold Badge décerné à l’équipe pour sa performance.
 
-
+---
 
 ## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48">
 
@@ -66,6 +66,7 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 - Qualification à la finale de l’HEXA OSINT CTF au [Hack](https://lehack.org) à Paris.
 - Victoire des Blaireaux des légendes au Hack.
 
+---
 
 ## 🕵🏻‍♂️ Stranger Case OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
 
@@ -75,11 +76,13 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 - Première phase qualificative
 - La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
 
+---
 
-## ⌖Stranger Case X-Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
+## 🦉Stranger Case X-Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
 
 #### 🥉 3ème Place sur 59 finalistes
 
+---
 
 ## 👢 CTF OSINT Le Bruit des Bottes by Oscar Zulu — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
