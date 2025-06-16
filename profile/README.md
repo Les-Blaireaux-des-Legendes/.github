@@ -57,6 +57,15 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 ---
 
+## 🦊 HACK'OSINT - CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
+
+#### 🥇 Première place pour l'équipe Tacos of Blaireaux
+
+- Participation à la finale en présentiel à Lyon
+- L'équipe Tacos of Blaireaux est une fusion des Tacosint avec l'équipe Les Blaireaux des Légendes
+
+---
+
 ## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48">
 
 #### 🥇 Première place sur +400 participants
