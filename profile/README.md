@@ -96,6 +96,15 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 ---
 
+## 💊 Medileak OSINT CTF — 2025 by Oscar Zulu <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+
+#### Qualification pour la finale à Limoges
+
+- 2ème place au classement en rapidité, 5ème place au classement général suite à un fail.
+- Notre équipe n'a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles. 
+
+---
+
 ## 👮 CTE (Capture the Evidence) Gendarmerie Nationale — 2024  <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b">
 
 #### 6ème place sur 170 équipes
