@@ -43,6 +43,15 @@ Animés par la curiosité, la rigueur et un goût certain pour les énigmes bien
 
 # 🏆 Nos faits d’armes
 
+## 🕵🏻 CTF EGE HUNT (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
+
+#### 🥇 Première place sur 67 équipes
+
+- Phase de qualification: 191 joueurs inscrits et 67 équipes
+- Finale à Paris: 10 équipes et 45 joueurs présents.
+
+---
+
 ## 🔎 Trace Labs OSINT CTF — 2025.04  <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d">
 
 #### 🥇 Première place sur +100 équipes
