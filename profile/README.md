@@ -8,20 +8,20 @@
 
 <img width="433" src="https://github.com/user-attachments/assets/450f11b8-e82f-4f47-8acd-f828ab47baa8">
 
-# Qui sommes-nous ?
+# 🔎 Qui sommes-nous ?
 
-👉 Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante.
+○ Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante.
 
-Cette évolution traduit la volonté de pérenniser ses actions, d’encadrer ses pratiques et de renforcer son engagement dans des démarches à la fois collaboratives, éthiques et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
+○ Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
 
-📺 Notre nom est un clin d'œil à la série française d'espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
-**C'est aussi une manière d'affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
+○ Notre nom est un **clin d'œil à la série française d'espionnage éponyme** et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
+C'est aussi une manière d'affirmer une philosophie simple : **prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
 
-Dans une démarche d'impact positif, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
+○ Dans une démarche d'impact positif, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
 
-Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore.
+○ Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore.
 
-🔎 Fidèles à notre devise : **Blaireau parfois, Légende toujours!**
+👉 Fidèles à notre devise : **Blaireau parfois, Légende toujours!**
 
 ---
 
@@ -47,7 +47,7 @@ Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bi
 
 # 🌐​ Le Terrier
 
-Le recrutement au sein de l’association est actuellement fermé et n’a pas vocation à être ouvert de manière continue. Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos activités.
+Le recrutement au sein de l’association est actuellement fermé et n’a pas vocation à être ouvert de manière continue. Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos activités. 
 
 Plutôt que d’adopter une logique de croissance des effectifs, Les Blaireaux des Légendes privilégient une approche qualitative fondée sur la stabilité de l’équipe et la consolidation des compétences existantes. Cette posture permet de garantir un cadre de travail rigoureux, une méthodologie homogène, ainsi qu’une coordination efficace dans les activités d’investigation et de recherche.
 
@@ -58,7 +58,7 @@ L’association favorise en revanche le développement de partenariats externes 
 ## 🦡 Membres actifs
 Les membres actifs constituent le cœur opérationnel de l’association. Ils participent de manière régulière aux activités, contribuent activement au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés.
 
-| Nom            | Alias                | Rôle               | Réseau             | Avatar
+| Nom            | Alias                | Rôle               | Réseau             
 |----------------|----------------------|--------------------|--------------------|--------------------|
 | 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
 | 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
@@ -69,7 +69,7 @@ Les membres actifs constituent le cœur opérationnel de l’association. Ils pa
 ## 🫡 Réservistes
 Les membres réservistes complètent ponctuellement les activités de l’association selon les besoins opérationnels, les disponibilités ou les missions spécifiques. Ils constituent un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles. Le recrutement de ces membres se fait exclusivement par parrainage, afin de garantir la cohérence, la qualité des profils et l’alignement avec les valeurs de l’association. Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs.
 
-| Nom            | Alias                | Renfort               | Avatar
+| Nom            | Alias                | Renfort               
 |----------------|----------------------|--------------------|--------------------|
 | 👨‍💻 Julien      | [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
 | 👁️ Luc         | [M3SS](https://twitter.com/0x4D335353)                   |  Hexa   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
@@ -83,7 +83,7 @@ Les vétérans sont d’anciens membres ayant contribué aux activités de l’a
 
 Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement conseils, retours d’expérience ou éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité et à la mémoire des travaux du collectif.
 
-| Nom            | Alias                | Avatar
+| Nom            | Alias              
 |----------------|----------------------|--------------------|
 | ⛽ Baboulinet     | [Blaireau Sans-Plomb](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"></div>
 
@@ -91,7 +91,7 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 ## 🤝 Partenaires
 Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos partenaires, que nous remercions pour leur engagement à nos côtés.
 
-| Nom            | Description                | Réseau             | Logo
+| Nom            | Description                | Réseau          
 |----------------|----------------------|--------------------|--------------------|
 | 👮‍♂️ HexaPol     | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
 | 🦊 Hackolyte     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
