@@ -64,35 +64,37 @@ Les membres actifs constituent le cœur opérationnel de l’association. Ils pa
 | 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
 | 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
 | 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
-| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://github.com/OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif">
+| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://www.OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif">
 
 ## 🫡 Réservistes
 Les membres réservistes complètent ponctuellement les activités de l’association selon les besoins opérationnels, les disponibilités ou les missions spécifiques. Ils constituent un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles. Le recrutement de ces membres se fait exclusivement par parrainage, afin de garantir la cohérence, la qualité des profils et l’alignement avec les valeurs de l’association. Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs.
 
-| Nom            | Alias                | Réseau             | Avatar
+| Nom            | Alias                | Renfort               | Avatar
 |----------------|----------------------|--------------------|--------------------|
-| 👨‍💻 Julien      | *cpasmonvraipseudo*         | [Blaireau réserviste](https://www.linkedin.com/in/vaju/)                     | <div style="text-align: center;"><img width="33" src="https://osint317.org/files/3343e0515f88f2a3c713d152c9acd64b/logo317_sticker_vector.png"></div>
-| 🥊 Youri       | *Tzar*     | [Blaireau réserviste](https://www.linkedin.com/in/youri4/) | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
-| 🏉 Tancrède    | *TestaDiAnguria*    | [Blaireau réserviste](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)                 | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
-| 👁️ Luc         | *M3SS*       | [Blaireau réserviste](https://twitter.com/0x4D335353)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
+| 👨‍💻 Julien      | [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
+| 👁️ Luc         | [M3SS](https://twitter.com/0x4D335353)                   |  Hexa   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
+| 🥊 Youri       | [Tzar](https://www.linkedin.com/in/youri4/) |  Hexa | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
+| 🕸️ Dimitri       | [Soxoj](https://github.com/soxoj) |  Trace Labs | <div style="text-align: center;"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"></div>
+| 🏉 Tancrède    | [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  |  Le Bruit des Bottes | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
+
 
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur investissement passé mérite d’être reconnu et mis à l’honneur.
 
 Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement conseils, retours d’expérience ou éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité et à la mémoire des travaux du collectif.
 
-| Nom            | Alias                | Réseau             | Avatar
-|----------------|----------------------|--------------------|--------------------|
-| ⛽ Baboulinet     | *Blaireau Sans-Plomb*      | [Baboulinet](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"></div>
+| Nom            | Alias                | Avatar
+|----------------|----------------------|--------------------|
+| ⛽ Baboulinet     | [Blaireau Sans-Plomb](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"></div>
 
 
 ## 🤝 Partenaires
 Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos partenaires, que nous remercions pour leur engagement à nos côtés.
 
-| Nom            | Description                | Réseau             | Avatar
+| Nom            | Description                | Réseau             | Logo
 |----------------|----------------------|--------------------|--------------------|
 | 👮‍♂️ HexaPol     | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
-| 🦊 Hackolyte     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://hackolyte.fr/)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
+| 🦊 Hackolyte     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
 
 ---
 
