@@ -1,4 +1,4 @@
-# 🇫🇷 Les Blaireaux des Légendes | THE LEGENDARY BADGERS
+# 🇫🇷 Les Blaireaux des Légendes | The Legendary Badgers 🇬🇧
 
 <img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
 
