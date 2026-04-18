@@ -60,22 +60,22 @@ Les membres actifs constituent le cœur opérationnel de l’association. Ils pa
 
 | Nom            | Alias                | Rôle               | Réseau | Avatar               
 |----------------|----------------------|--------------------|----------------------|-------------------------|
-| 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
-| 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
-| 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
-| 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
-| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://www.OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif">
+| 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"></div>
+| 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340"></div>
+| 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34"></div>
+| 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1"></div>
+| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://www.OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif"></div>
 
 ## 🫡 Réservistes
 Les membres réservistes complètent ponctuellement les activités de l’association selon les besoins opérationnels, les disponibilités ou les missions spécifiques. Ils constituent un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles. Le recrutement de ces membres se fait exclusivement par parrainage, afin de garantir la cohérence, la qualité des profils et l’alignement avec les valeurs de l’association. Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs.
 
-| Nom            | Alias                | Renfort  | Avatar                            
-|----------------|----------------------|--------------------|--------------------|
-| 👨‍💻 Julien      | [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
-| 👁️ Luc         | [M3SS](https://twitter.com/0x4D335353)                   |  Hexa   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
-| 🥊 Youri       | [Tzar](https://www.linkedin.com/in/youri4/) |  Hexa | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
-| 🕸️ Dimitri       | [Soxoj](https://github.com/soxoj) |  Trace Labs | <div style="text-align: center;"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"></div>
-| 🏉 Tancrède    | [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  |  Le Bruit des Bottes | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
+| Pseudo    | Renfort  | Avatar                            
+|----------------|----------|---------|
+| 👨‍💻 [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
+| 👁️ [M3SS](https://twitter.com/0x4D335353)                   |  Hexa OSINT CTF   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
+| 🥊 [Tzar](https://www.linkedin.com/in/youri4/) |  Hexa OSINT CTF    | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
+| 🕸️ [Soxoj](https://github.com/soxoj) |  Trace Labs OSINT Search Party CTF | <div style="text-align: center;"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"></div>
+| 🏉 [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  | CTF Le Bruit des Bottes | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
 
 
 ## 🎖 Vétérans
@@ -93,14 +93,14 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 | Nom            | Description                | Réseau    | Logo                     
 |----------------|----------------------|--------------------|--------------------|
-| **HexaPol** 👮‍♂️    | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
-|  **Hackolyte** 🦊     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
+| **👮‍♂️HexaPol**    | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
+|  **🦊Hackolyte**      | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
 
 ---
 
 # 🏆 Nos faits d’armes
 
-## 🦉 CTF EGE HUNT (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
+## 🦉 CTF HUNT EGE (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
 
 #### 🥇 1ère place sur 67 équipes
 
@@ -109,11 +109,11 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ---
 
-## 🔎 Trace Labs OSINT CTF — 2025.04  <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d">
+## 🔎 Trace Labs OSINT Search Party CTF — 2025.04  <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d">
 
 #### 🥇 1ère place sur +100 équipes
 
-- CTF international d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre
+- [CTF international](https://tracelabs.org/) d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre
 - Compétition en temps réel, encadrée par Trace Labs
 - Participation à 3 joueurs au lieu de 4, sous le nom anglophone "The Legendary Badgers 🦡"
 - Gold Badge décerné à l’équipe pour sa performance
@@ -156,7 +156,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ---
 
-## 👢 CTF OSINT Le Bruit des Bottes — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## 👢 CTF Le Bruit des Bottes — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
 #### 🥉 3ème Place sur 219 équipes
 
@@ -170,7 +170,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 #### Qualification pour la finale à Limoges
 
-- 2ème place au classement en rapidité, 5ème place au classement général suite à un "fail"
+- 2ème place au classement en rapidité, 5ème place au classement général suite à un fail
 - Notre équipe n'a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles et à céder sa place
 
 ---
@@ -242,13 +242,16 @@ Sa manière d’avancer : patiente, organisée, précise, en fait une métaphore
 Son mode de vie repose sur une endurance discrète : agir dans la durée, en s’adaptant à son environnement avec intelligence plutôt qu’avec force brute.
 
 Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
+
 → **la résilience** → revenir à la tâche, encore et toujours,
 
 → **la méthode** → structurer pour comprendre,
 
 → **l’adaptabilité** → évoluer sur tous les terrains.
 
-**Flair affûté. Esprit structuré. Clavier aiguisé.** Dans la forêt comme dans le cyberespace, la logique reste la même : **la surface informe, la profondeur révèle.**
+**Flair affûté. Esprit structuré. Clavier aiguisé.**
+Dans la forêt comme dans le cyberespace, la logique reste la même :
+**la surface informe, la profondeur révèle.**
 
 ---
 
