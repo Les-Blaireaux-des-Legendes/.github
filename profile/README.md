@@ -80,6 +80,9 @@ Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la
 | 🥊 [Tzar](https://www.linkedin.com/in/youri4/) |  Hexa OSINT CTF    | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
 | 🏉 [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  | Medileak OSINT CTF | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
 
+---
+
+# ⚜️​ Hall of Fame
 
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
