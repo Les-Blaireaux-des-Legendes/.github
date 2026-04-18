@@ -266,7 +266,7 @@ Son mode de vie repose sur une endurance discrète : agir dans la durée, en s�
 
 → **l’adaptabilité** → évoluer sur tous les terrains.
 
-Mais au-delà de l’image souvent caricaturale qui lui est associée, nous assumons et revendiquons le blaireau comme un symbole à réhabiliter. Casser le mythe du "blaireau", c’est justement reconnaître la valeur de ce qui est discret et persistant.
+Mais au-delà de l’image souvent caricaturale qui lui est associée, nous assumons et revendiquons le blaireau comme un symbole à réhabiliter. **Casser le mythe du "blaireau", c’est justement reconnaître la valeur de ce qui est discret et persistant.**
 
 Car dans la forêt comme dans le cyberespace, la logique reste la même : **la surface informe, la profondeur révèle.**
 
