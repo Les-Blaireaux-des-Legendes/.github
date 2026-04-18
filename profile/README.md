@@ -130,7 +130,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 #### 🥇 1ère place sur +100 équipes
 
-- [CTF international](https://tracelabs.org/) d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre
+- [CTF international](https://tracelabs.org/) d’investigation sur des cas réels de personnes disparues, au profit des forces de l’ordre
 - Compétition en temps réel, encadrée par Trace Labs
 - Participation à 3 joueurs au lieu de 4, sous le nom anglophone "The Legendary Badgers 🦡"
 - Gold Badge décerné à l’équipe pour sa performance
