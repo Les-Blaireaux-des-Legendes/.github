@@ -112,28 +112,26 @@ Recruitment is strictly **sponsorship-based** to ensure alignment with collectiv
 | <div align="center"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"/><br><strong>Soxoj</strong></div> | Trace Labs OSINT Search Party CTF |
 | <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"/><br><strong>cpasmonvraipseudo</strong></div> | Stranger Case × Hunt |
 | <div align="center"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"/><br><strong>M3SS</strong></div> | Hexa OSINT CTF |
-| <div align="center"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"/><br><strong>Tzar</strong></div> | Hexa OSINT CTF |
+| <div align="center"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"/><br><strong>[Tzar](url)</strong></div> | Hexa OSINT CTF |
 | <div align="center"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"/><br><strong>TestaDiAnguria</strong></div> | Medileak OSINT CTF |
 
 </div>
+
 
 ---
 
 # 🏛 — Hall of Recognition
 
 ## 🎖 Veterans
-Former operators who significantly contributed to past missions.
+Former operators who significantly contributed to past missions continue to play an important indirect role. Although no longer in active service, they remain part of an informal intelligence network. Through this network, they contribute valuable contextual insight, helping to clarify complex situations with the benefit of experience. They also provide analytical feedback, offering critical perspectives on strategies, decisions, and outcomes.
 
-They remain part of an informal intelligence network providing:
-- Contextual insight
-- Analytical feedback
-- Operational memory
+In addition, they preserve and transmit operational memory, ensuring that lessons learned from past missions are not lost over time but remain accessible to inform future actions :
 
 <div align="center">
 
-| Name | Alias |
-|:---:|:---:|
-| <div align="center"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"/><br><strong>Baboulinet</strong></div> | [Unleaded Badger](https://x.com/Baboulinet_Off/) |
+| Name |
+|:---:|
+| <img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"><br><strong>Baboulinet</strong><br><span style="font-size:12px"><a href="https://x.com/Baboulinet_Off/">Unleaded Badger</a></span> |
 
 </div>
 
