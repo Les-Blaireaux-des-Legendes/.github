@@ -8,18 +8,18 @@
 
 <img width="433" src="https://github.com/user-attachments/assets/450f11b8-e82f-4f47-8acd-f828ab47baa8">
 
+### Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore !
+
 # 🔎 Qui sommes-nous ?
 
-○ Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante.
+○ Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT).
 
-○ Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
+○ Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
+
+○ Dans une volonté de contribution positive à la société, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
 
 ○ Notre nom est un **clin d'œil à la série française d'espionnage éponyme** et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
 C'est aussi une manière d'affirmer une philosophie simple : **prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
-
-○ Dans une démarche d'impact positif, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
-
-○ Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore.
 
 👉 Fidèles à notre devise : **Blaireau parfois, Légende toujours!**
 
@@ -29,19 +29,17 @@ C'est aussi une manière d'affirmer une philosophie simple : **prendre notre tra
 
 → Participer à des exercices et compétitions d’investigation en ligne de type Capture The Flag (CTF), ainsi qu’à des initiatives de recherche de personnes disparues, en collaboration avec des acteurs spécialisés
 
-→ Contribuer au développement, à la promotion et à la démocratisation de la discipline du renseignement en sources ouvertes (OSINT)
-
-→ Favoriser la diffusion des bonnes pratiques et encourager la montée en compétence des praticiens, notamment par des approches pédagogiques et ludiques fondées sur la gamification
-
-→ Soutenir la visibilité et le rayonnement des communautés francophones évoluant dans les domaines de l’investigation numérique et de la cybersécurité à l’échelle internationale
-
-→ Promouvoir une pratique éthique, responsable et collaborative des enquêtes en sources ouvertes
-
 → Développer et maintenir un haut niveau d’expertise dans les domaines de l’investigation numérique, incluant l’OSINT, le renseignement d’origine cyber, l’analyse de données, ainsi que les techniques d’investigation et d’élucidation avancées
 
 → Assurer une veille technologique et méthodologique continue afin de suivre les évolutions des outils, des pratiques et des menaces liées à l’environnement numérique
 
-→ Contribuer à des actions de prévention et de lutte contre la désinformation, contre toutes formes d’abus en ligne et les contenus illicites, ainsi qu’à l’accompagnement des victimes de cyberharcèlement
+→ Agir pour le développement, la promotion et la démocratisation de la discipline du renseignement en sources ouvertes, en défendant une pratique éthique, responsable et collaborative des enquêtes OSINT. 
+
+→ Favoriser la diffusion des bonnes pratiques et encourager la montée en compétence des praticiens, notamment par des approches pédagogiques et ludiques fondées sur la gamification
+
+→ Contribuer à la visibilité et le rayonnement des communautés francophones évoluant dans les domaines de l’investigation numérique et de la cybersécurité à l’échelle internationale
+
+→ Œuvrer à la prévention et à la lutte contre la désinformation, les abus en ligne et les contenus illicites, tout en plaçant l’accompagnement des victimes de cyberharcèlement au cœur de l’action.
 
 ---
 
@@ -56,7 +54,7 @@ Elle s’appuie également sur une forte cohésion interne, un esprit d’équip
 L’association favorise en revanche le développement de partenariats externes avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses missions. Ces collaborations peuvent prendre différentes formes (échanges de compétences, projets conjoints, soutien ponctuel, échanges de visibilité, tests de solutions ou d’outils, etc).
 
 ## 🦡 Membres actifs
-Les membres actifs constituent le cœur opérationnel de l’association. Ils participent de manière régulière aux activités, contribuent activement au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés.
+Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association. Ils participent de manière régulière aux activités, contribuent au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés :
 
 | Nom            | Alias                | Rôle               | Réseau | Avatar               
 |----------------|----------------------|--------------------|----------------------|-------------------------|
@@ -67,7 +65,10 @@ Les membres actifs constituent le cœur opérationnel de l’association. Ils pa
 | 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://www.OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif"></div>
 
 ## 🫡 Réservistes
-Les membres réservistes complètent ponctuellement les activités de l’association selon les besoins opérationnels, les disponibilités ou les missions spécifiques. Ils constituent un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles. Le recrutement de ces membres se fait exclusivement par parrainage, afin de garantir la cohérence, la qualité des profils et l’alignement avec les valeurs de l’association. Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs.
+Les réservistes constituent un poumon de l’association, venant compléter ponctuellement les activités selon les besoins, les disponibilités ou les missions spécifiques.
+
+Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs. Ils forment un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles.
+Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la cohérence, la qualité des profils et leur alignement avec les valeurs de l’association :
 
 | Pseudo    | Renfort  | Avatar                            
 |----------------|----------|---------|
@@ -79,9 +80,9 @@ Les membres réservistes complètent ponctuellement les activités de l’associ
 
 
 ## 🎖 Vétérans
-Les vétérans sont d’anciens membres ayant contribué aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur investissement passé mérite d’être reconnu et mis à l’honneur.
+Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
 
-Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement conseils, retours d’expérience ou éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité et à la mémoire des travaux du collectif.
+Ils constituent également un réseau d’appui informel, susceptible d’apporter ponctuellement conseils, retours d’expérience et éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité des travaux du collectif, en tant que mémoire vive et réseau de transmission :
 
 | Nom            | Alias        | Avatar                     
 |----------------|----------------------|--------------------|
@@ -89,12 +90,14 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 
 ## 🤝 Partenaires
-Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos partenaires, que nous remercions pour leur engagement à nos côtés.
+Nos missions ne prendraient pas la même ampleur sans la confiance et le soutien de nos partenaires. Acteurs essentiels de ce que nous construisons collectivement, leur engagement à nos côtés renforce nos actions et en démultiplie l’impact.
+
+Nous leur exprimons notre profonde reconnaissance pour leur contribution déterminante à la réussite de nos projets :
 
 | Nom            | Description                | Réseau    | Logo                     
 |----------------|----------------------|--------------------|--------------------|
 | **👮‍♂️HexaPol**    | *Hexapol est la première structure française dédiée à la sécurisation des salles d’armes et à la gestion des équipements réglementaires. Entité du groupe HEXA, elle développe des solutions globales intégrant sécurité, organisation et traçabilité, conçues sur mesure pour répondre aux besoins et aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
-|  **Hackolyte🦊**      | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
+|  **Hackolyte**      | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
 
 ---
 
