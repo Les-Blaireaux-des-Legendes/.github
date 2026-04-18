@@ -19,10 +19,10 @@
 
 ∙ Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
 
-∙ Dans une volonté de contribution positive à la société, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
+∙ Dans une volonté de contribution positive à la société, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d’abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l’aide et l’accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
 
-∙ Notre nom est un clin d'œil à la série française d'espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
-**C'est aussi une manière d'affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
+∙ Notre nom est un clin d’œil à la série française d’espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
+**C’est aussi une manière d’affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
 
 👉 **Fidèles à notre devise : Blaireau parfois, Légende toujours !**
 
@@ -61,13 +61,18 @@ Les membres actifs constituent la colonne vertébrale de l’organisation opéra
 
 Ils participent de manière régulière aux activités, contribuent au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés :
 
-| Nom | Alias | Rôle | Réseau |
+
+<div align="center">
+
+| Name | Callsign | Role | Network |
 |:---:|:---:|:---:|:---:|
-| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"/><br><strong>Steven</strong></div> | *Blaireau Rusé* | Président | [0SINTER](https://github.com/0SINTER) |
-| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340"/><br><strong>Yoni</strong></div> | *Blaireau Tactique* | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) |
-| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34"/><br><strong>Alexis</strong></div> | *Blaireau Technique* | Co-fondateur | [AlexisMrts](https://github.com/AlexisMrts) |
-| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1"/><br><strong>Doriane</strong></div> | *Blairelle Recon* | Co-fondateur | [rHACK00n](https://github.com/rHACK00n) |
-| <div align="center"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif"/><br><strong>Pierre</strong></div> | *Blaireau Furtif* | Membre | [OSINT.SARL](https://www.OSINT.SARL) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"/><br><strong>Steven</strong></div> | *Cunning Badger* | President | [0SINTER](https://github.com/0SINTER) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340"/><br><strong>Yoni</strong></div> | *Tactical Badger* | Vice President | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34"/><br><strong>Alexis</strong></div> | *Technical Badger* | Co-Founder | [AlexisMrts](https://github.com/AlexisMrts) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1"/><br><strong>Doriane</strong></div> | *Recon Badger* | Co-Founder | [rHACK00n](https://github.com/rHACK00n) |
+| <div align="center"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif"/><br><strong>Pierre</strong></div> | *Stealth Badger* | Member | [OSINT.SARL](https://www.OSINT.SARL) |
+
+</div>
 
 ## 🫡 Réservistes
 Les réservistes constituent un poumon de l’association, venant compléter ponctuellement les activités selon les besoins, les disponibilités ou les missions spécifiques.
@@ -75,13 +80,17 @@ Les réservistes constituent un poumon de l’association, venant compléter pon
 Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs. Ils forment un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles.
 Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la cohérence, la qualité des profils et leur alignement avec les valeurs de l’association :
 
-| Pseudo    | Renfort  | Avatar                            
-|----------------|----------|---------|
-| 🕸️ [Soxoj](https://github.com/soxoj) |  Trace Labs OSINT Search Party CTF | <div style="text-align: center;"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"></div>
-| 👨‍💻 [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
-| 👁️ [M3SS](https://twitter.com/0x4D335353)                   |  Hexa OSINT CTF   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
-| 🥊 [Tzar](https://www.linkedin.com/in/youri4/) |  Hexa OSINT CTF    | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
-| 🏉 [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  | Medileak OSINT CTF | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
+<div align="center">
+
+| External Contributor | Event Contribution |
+|:---:|:---:|
+| <div align="center"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"/><br><strong>Soxoj</strong></div> | Trace Labs OSINT Search Party CTF |
+| <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"/><br><strong>cpasmonvraipseudo</strong></div> | Stranger Case × Hunt |
+| <div align="center"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"/><br><strong>M3SS</strong></div> | Hexa OSINT CTF |
+| <div align="center"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"/><br><strong>Tzar</strong></div> | Hexa OSINT CTF |
+| <div align="center"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"/><br><strong>TestaDiAnguria</strong></div> | Medileak OSINT CTF |
+
+</div>
 
 ---
 
@@ -92,9 +101,13 @@ Les vétérans sont d’anciens membres ayant contribué de manière notable aux
 
 Ils constituent également un réseau d’appui informel, susceptible d’apporter ponctuellement conseils, retours d’expérience et éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité des travaux du collectif, en tant que mémoire vive et réseau de transmission :
 
-| Nom            | Alias        | Avatar                     
-|----------------|----------------------|--------------------|
-| ⛽ Baboulinet     | [Blaireau Sans-Plomb](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"></div>
+<div align="center">
+
+| Name | Alias |
+|:---:|:---:|
+| <div align="center"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"/><br><strong>Baboulinet</strong></div> | [Unleaded Badger](https://x.com/Baboulinet_Off/) |
+
+</div>
 
 
 ## 🤝 Partenaires
@@ -102,10 +115,14 @@ Nos missions ne prendraient pas la même ampleur sans la confiance et le soutien
 
 Nous leur exprimons notre profonde reconnaissance pour leur contribution déterminante à la réussite de nos projets :
 
-| Nom            | Description                | Réseau    | Logo                     
-|----------------|----------------------|--------------------|--------------------|
-| **👮‍♂️HexaPol**    | *Hexapol est la première structure française dédiée à la sécurisation des salles d’armes et à la gestion des équipements réglementaires. Entité du groupe HEXA, elle développe des solutions globales intégrant sécurité, organisation et traçabilité, conçues sur mesure pour répondre aux besoins et aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
-|  **Hackolyte**      | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
+<div align="center">
+
+| Name | Description | Network |
+|:---:|:---:|:---:|
+| <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"/><br><strong>HexaPol</strong></div> | Hexapol est la première structure française dédiée à la sécurisation des salles d’armes et à la gestion des équipements réglementaires. Entité du groupe HEXA, elle développe des solutions globales intégrant sécurité, organisation et traçabilité, conçues sur mesure pour répondre aux besoins et aux exigences opérationnelles de ses clients. | [Hexa Group](https://hexapol.com/a-propos/) |
+| <div align="center"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"/><br><strong>Hackolyte</strong></div> | Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information. | [Hackolyte](https://github.com/HACK-OLYTE) |
+
+</div>
 
 ---
 
@@ -117,7 +134,7 @@ Chaque mission est également l’occasion de remettre nos compétences en quest
 
 Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de la performance nourrit notre progression et permet d’améliorer en continu nos pratiques opérationnelles.
 
-## 🦉 CTF HUNT EGE (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
+## <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> CTF HUNT EGE (École de Guerre Économique) — 2025
 
 #### 🥇 1ère place sur 67 équipes
 
@@ -126,7 +143,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## 🔎 Trace Labs OSINT Search Party CTF — 2025.04  <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d">
+## <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d"> Trace Labs OSINT Search Party CTF — 2025.04  
 
 #### 🥇 1ère place sur +100 équipes
 
@@ -137,16 +154,16 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## 🦊 HACK'OSINT CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
+## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> HACK’OSINT CTF — 2025
 
-#### 🥇 1ère place pour l'équipe "Tacos of Blaireaux"
+#### 🥇 1ère place pour l’équipe "Tacos of Blaireaux"
 
 - Participation à la finale en présentiel à Lyon
-- L'équipe Tacos of Blaireaux est une fusion exceptionnelle avec l'équipe [Tacosint](https://www.linkedin.com/company/tacosint/)
+- L’équipe Tacos of Blaireaux est une fusion exceptionnelle avec l’équipe [Tacosint](https://www.linkedin.com/company/tacosint/)
 
 ---
 
-## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48">
+## <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48"> HEXA OSINT CTF — 2024
 
 #### 🥇 1ère place sur +400 participants
 
@@ -157,23 +174,23 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## 🕵🏻‍♂️ Stranger Case OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679">
+## <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> Stranger Case OSINT CTF — 2024  
 
 #### 🥈 2ème Place sur plus de 100 équipes 
 
-- Stranger Case est un CTF orienté OSINT/Social Engineering par l'[ESNA](https://www.esna.bzh/)
+- Stranger Case est un CTF orienté OSINT/Social Engineering par l’[ESNA](https://www.esna.bzh/)
 - Première phase qualificative
-- La finale x Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr/) en partenariat avec l'[AEGE](https://www.aege.fr/)
+- La finale x Hunt à Paris à l’[Ecole de Guerre Économique](https://www.ege.fr/) en partenariat avec l’[AEGE](https://www.aege.fr/)
 
 ---
 
-## 🦉 Stranger Case x Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
+## <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb"> Stranger Case x Hunt Finale - 2024  
 
 #### 🥉 3ème Place sur 59 finalistes
 
 ---
 
-## 👢 CTF Le Bruit des Bottes — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> CTF Le Bruit des Bottes — 2025  
 
 #### 🥉 3ème Place sur 219 équipes
 
@@ -183,16 +200,16 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## 💊 Medileak OSINT CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> Medileak OSINT CTF — 2025
 
 #### Qualification pour la finale à Limoges
 
 - 2ème place au classement en rapidité, 5ème place au classement général suite à un fail
-- Notre équipe n'a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles et à céder sa place
+- Notre équipe n’a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles et à céder sa place
 
 ---
 
-## 👮 CTE (Capture the Evidence) Gendarmerie Nationale — 2024  <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b">
+## <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b"> CTE (Capture the Evidence) Gendarmerie Nationale — 2024 
 
 #### 6ème place sur 170 équipes
 
@@ -201,13 +218,13 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## 💊 Medileak OSINT CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> Medileak OSINT CTF — 2024
 
 #### 6ème place sur +110 équipes
 
 ---
 
-## 🦊 HACK'OSINT CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
+## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> HACK’OSINT CTF — 2024 
 
 #### 8ème place sur 124 équipes 
 
@@ -231,7 +248,7 @@ Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide 
 
 Ce défi, centré sur la **lutte contre les manipulations de l’information ([LMI](https://www.portail-ie.fr/univers/2025/panorama-des-acteurs-francais-de-la-lutte-contre-la-manipulation-de-linformation/))**, proche des conditions du réel, visant à renforcer la résilience des participants face aux campagnes d’influence et aux opérations informationnelles contemporaines. À travers un scénario interactif, des environnements médiatiques simulés et du contenu informationnel varié (articles, publications sociales, vidéos et messages contextuels), les participants étaient confrontés à des situations réalistes de circulation de l’information, les incitant à analyser et contrer les mécanismes de manipulation de l’information. L’objectif était de développer des réflexes critiques durables, une meilleure compréhension des stratégies d’influence, ainsi qu’une capacité accrue à distinguer les contenus fiables des narratifs construits.
 
-🔗 **Lien vers l'événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
+🔗 **Lien vers l’événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
 
 
 ## 🟠 Mission Vérité — BPI
@@ -247,7 +264,7 @@ Chaque épreuve permettait de révéler un flag (identifiant, donnée ou indice 
 
 Au-delà de la compétition, l’objectif était double : progresser dans une narration qui les plonge au cœur de l’enquête et démontrer la maîtrise de techniques d’investigation numérique directement applicables en contexte réel.
 
-🔗 **Lien vers l'événement** : [Capture The Flag Mission Vérité 2025](https://web.archive.org/web/20250915014744/https://ctf-bpifrance.io/rules)
+🔗 **Lien vers l’événement** : [Capture The Flag Mission Vérité 2025](https://web.archive.org/web/20250915014744/https://ctf-bpifrance.io/rules)
 
 ---
 
