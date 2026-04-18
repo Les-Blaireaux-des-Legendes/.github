@@ -83,7 +83,16 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 | Nom            | Alias                | Réseau             | Avatar
 |----------------|----------------------|--------------------|--------------------|
-| ⛽ Baboulinet     | *Blaireau Sans-Plomb*      | [Baboulinet](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="[https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8](https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg)"></div>
+| ⛽ Baboulinet     | *Blaireau Sans-Plomb*      | [Baboulinet](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"></div>
+
+
+## 🤝 Partenaires
+Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos partenaires, que nous remercions pour leur engagement à nos côtés.
+
+| Nom            | Description                | Réseau             | Avatar
+|----------------|----------------------|--------------------|--------------------|
+| 👮‍♂️ HexaPol     | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
+| 🦊 Hackolyte     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://hackolyte.fr/)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
 
 ---
 
@@ -94,7 +103,7 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 #### 🥇 Première place sur 67 équipes
 
 - Phase de qualification: 191 joueurs inscrits et 67 équipes
-- Finale à Paris: 10 équipes et 45 joueurs présents.
+- Finale à Paris: 10 équipes et 45 joueurs présents
 
 ---
 
@@ -102,13 +111,10 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 #### 🥇 Première place sur +100 équipes
 
-- CTF international d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre.
-
-- Compétition en temps réel, encadrée par Trace Labs.
-
+- CTF international d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre
+- Compétition en temps réel, encadrée par Trace Labs
 - Participation à 3 joueurs au lieu de 4, sous le nom anglophone "The Legendary Badgers 🦡"
-
-- Gold Badge décerné à l’équipe pour sa performance.
+- Gold Badge décerné à l’équipe pour sa performance
 
 ---
 
@@ -127,8 +133,8 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 - Dernière édition de l’HEXA OSINT CTF avec plus de 400 participants (+100 équipes) qui ont pris part à la compétition
 - 2 phases (1ère phase qualificative + finale à Paris)
-- Qualification à la finale de l’HEXA OSINT CTF au [Hack](https://lehack.org) à Paris.
-- Victoire des Blaireaux des légendes au Hack.
+- Qualification à la finale de l’HEXA OSINT CTF au [Hack](https://lehack.org) à Paris
+- Victoire des Blaireaux des légendes au Hack
 
 ---
 
@@ -153,9 +159,7 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 #### 🥉 3ème Place sur 219 équipes
 
 - Deux phases, deux week-ends, 219 équipes au départ
-
 - 6 équipes qui ont terminés le CTF
-
 - Challenges variés : HUMINT, évasion, manip sociale, rebondissements de polar
 
 ---
@@ -164,8 +168,8 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 #### Qualification pour la finale à Limoges
 
-- 2ème place au classement en rapidité, 5ème place au classement général suite à un fail.
-- Notre équipe n'a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles. 
+- 2ème place au classement en rapidité, 5ème place au classement général suite à un "fail"
+- Notre équipe n'a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles et à céder sa place
 
 ---
 
@@ -188,9 +192,8 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 #### 8ème place sur 124 équipes 
 
-> https://ctftime.org/event/2392/
-
-> 124 équipes
+- https://ctftime.org/event/2392/
+- 124 équipes
 
 ---
 
