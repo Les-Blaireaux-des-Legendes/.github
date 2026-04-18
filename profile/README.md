@@ -1,7 +1,8 @@
-# 🇫🇷 Les Blaireaux des Légendes | The Legendary Badgers 🇬🇧
-
 <div align="center">
-
+  
+  # 🇫🇷 Les Blaireaux des Légendes | The Legendary Badgers 🇬🇧
+  ###  Association spécialisé en OSINT et en investigations numériques
+  
 <img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
 
 ---
