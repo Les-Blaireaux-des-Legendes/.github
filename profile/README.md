@@ -120,12 +120,12 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ---
 
-## 🦊 HACK'OSINT - CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
+## 🦊 HACK'OSINT CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
 
-#### 🥇 Première place pour l'équipe Tacos of Blaireaux
+#### 🥇 Première place pour l'équipe "Tacos of Blaireaux"
 
 - Participation à la finale en présentiel à Lyon
-- L'équipe Tacos of Blaireaux est une fusion des Tacosint avec l'équipe Les Blaireaux des Légendes
+- L'équipe Tacos of Blaireaux est une fusion exceptionnelle avec l'équipe [Tacosint](https://www.linkedin.com/company/tacosint/)
 
 ---
 
@@ -135,7 +135,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 - Dernière édition de l’HEXA OSINT CTF avec plus de 400 participants (+100 équipes) qui ont pris part à la compétition
 - 2 phases (1ère phase qualificative + finale à Paris)
-- Qualification à la finale de l’HEXA OSINT CTF au [Hack](https://lehack.org) à Paris
+- Qualification à la finale de l’HEXA OSINT CTF au [Hack](https://lehack.org/) à Paris
 - Victoire des Blaireaux des légendes au Hack
 
 ---
@@ -144,29 +144,29 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 #### 🥈 2ème Place sur plus de 100 équipes 
 
-- Stranger Case est un CTF orienté OSINT/Social Engineering
+- Stranger Case est un CTF orienté OSINT/Social Engineering par l'[ESNA](https://www.esna.bzh/)
 - Première phase qualificative
-- La finale X-Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr) en partenariat avec l'[AEGE](https://www.aege.fr/)
+- La finale x Hunt à Paris à l'[Ecole de Guerre Économique](https://www.ege.fr/) en partenariat avec l'[AEGE](https://www.aege.fr/)
 
 ---
 
-## 🦉 Stranger Case X-Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
+## 🦉 Stranger Case x Hunt Finale - 2024  <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb">
 
 #### 🥉 3ème Place sur 59 finalistes
 
 ---
 
-## 👢 CTF OSINT Le Bruit des Bottes by Oscar Zulu — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## 👢 CTF OSINT Le Bruit des Bottes — 2025  <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
 #### 🥉 3ème Place sur 219 équipes
 
-- Deux phases, deux week-ends, 219 équipes au départ
-- 6 équipes qui ont terminés le CTF
-- Challenges variés : HUMINT, évasion, manip sociale, rebondissements de polar
+- CTF en deux phases de deux week-ends
+- 219 équipes au départ, 6 équipes qui ont terminés le CTF
+- Challenges variés : HUMINT, évasion, manip sociale, rebondissements digne de polar
 
 ---
 
-## 💊 Medileak OSINT CTF — 2025 by Oscar Zulu <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## 💊 Medileak OSINT CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
 #### Qualification pour la finale à Limoges
 
@@ -184,18 +184,15 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ---
 
-## 💊 Medileak OSINT CTF — 2024 by Oscar Zulu <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
+## 💊 Medileak OSINT CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004">
 
 #### 6ème place sur +110 équipes
 
 ---
 
-## 🦊 HACK'OSINT - CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
+## 🦊 HACK'OSINT CTF — 2024 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
 
 #### 8ème place sur 124 équipes 
-
-- https://ctftime.org/event/2392/
-- 124 équipes
 
 ---
 
