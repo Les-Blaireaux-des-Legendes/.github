@@ -93,8 +93,8 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 | Nom            | Description                | Réseau    | Logo                     
 |----------------|----------------------|--------------------|--------------------|
-| 👮‍♂️ HexaPol     | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
-| 🦊 Hackolyte     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
+| **HexaPol** 👮‍♂️    | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
+|  **Hackolyte** 🦊     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
 
 ---
 
@@ -102,7 +102,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ## 🦉 CTF EGE HUNT (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
 
-#### 🥇 Première place sur 67 équipes
+#### 🥇 1ère place sur 67 équipes
 
 - Phase de qualification: 191 joueurs inscrits et 67 équipes
 - Finale à Paris: 10 équipes et 45 joueurs présents
@@ -111,7 +111,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ## 🔎 Trace Labs OSINT CTF — 2025.04  <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d">
 
-#### 🥇 Première place sur +100 équipes
+#### 🥇 1ère place sur +100 équipes
 
 - CTF international d’enquête OSINT sur des cas réels de personnes disparues, au profit des forces de l’ordre
 - Compétition en temps réel, encadrée par Trace Labs
@@ -122,7 +122,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ## 🦊 HACK'OSINT CTF — 2025 <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999">
 
-#### 🥇 Première place pour l'équipe "Tacos of Blaireaux"
+#### 🥇 1ère place pour l'équipe "Tacos of Blaireaux"
 
 - Participation à la finale en présentiel à Lyon
 - L'équipe Tacos of Blaireaux est une fusion exceptionnelle avec l'équipe [Tacosint](https://www.linkedin.com/company/tacosint/)
@@ -131,7 +131,7 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 ## 🔎 HEXA OSINT CTF — 2024  <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48">
 
-#### 🥇 Première place sur +400 participants
+#### 🥇 1ère place sur +400 participants
 
 - Dernière édition de l’HEXA OSINT CTF avec plus de 400 participants (+100 équipes) qui ont pris part à la compétition
 - 2 phases (1ère phase qualificative + finale à Paris)
@@ -222,8 +222,8 @@ Ce défi, centré sur la **lutte contre les manipulations de l’information (LM
 Nous avons également conçu le CTF Mission Vérité pour la communauté [BPIfrance.io](https://www.linkedin.com/feed/update/urn:li:activity:7369632940462350336/).
 
 Le challenge s’est déroulé en deux phases :
-> une première étape entièrement en ligne
-> une seconde phase hybride, organisée en présentiel à l’Accor Arena à l’occasion du BIG
+- une première étape entièrement en ligne
+- une seconde phase hybride, organisée en présentiel à l’Accor Arena à l’occasion du BIG
 
 Les participants ont évolué dans une enquête progressive mêlant investigation numérique, résolution d’énigmes et analyse stratégique.
 Chaque épreuve permettait de révéler un flag (identifiant, donnée ou indice clé), nécessaire pour avancer dans le scénario.
@@ -243,7 +243,9 @@ Son mode de vie repose sur une endurance discrète : agir dans la durée, en s�
 
 Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
 → **la résilience** → revenir à la tâche, encore et toujours,
+
 → **la méthode** → structurer pour comprendre,
+
 → **l’adaptabilité** → évoluer sur tous les terrains.
 
 **Flair affûté. Esprit structuré. Clavier aiguisé.** Dans la forêt comme dans le cyberespace, la logique reste la même : **la surface informe, la profondeur révèle.**
