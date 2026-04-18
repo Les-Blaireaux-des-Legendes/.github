@@ -138,7 +138,7 @@ Chaque mission est également l’occasion de remettre nos compétences en quest
 
 Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de la performance nourrit notre progression et permet d’améliorer en continu nos pratiques opérationnelles.
 
-## <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> — CTF HUNT EGE (École de Guerre Économique) [2025]
+## <img width="52" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> — CTF HUNT EGE (École de Guerre Économique) [2025]
 
 #### 🥇 1ère place sur 67 équipes
 
@@ -147,7 +147,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d"> — Trace Labs OSINT Search Party CTF [2025-04]  
+## <img width=33 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d"> — Trace Labs OSINT Search Party CTF [2025-04]  
 
 #### 🥇 1ère place sur +100 équipes
 
@@ -186,7 +186,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b"> — CTE (Capture the Evidence) Gendarmerie Nationale [2024]
+## <img width=60 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b">— CTE (Capture the Evidence) Gendarmerie Nationale [2024]
 
 #### 6ème place sur 170 équipes
 
@@ -195,7 +195,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48"> — HEXA OSINT CTF [2024]
+## <img width=44 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48"> — HEXA OSINT CTF [2024]
 
 #### 🥇 1ère place sur +400 participants
 
@@ -206,12 +206,12 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=42 src="https://www.pasteboard.co/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]   
+## <img width=60 src="https://gcdnb.pbrd.co/images/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]   
 
 #### 🥉 3ème Place sur 59 finalistes
 
 ---
-## <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> — Stranger Case OSINT CTF [2024]  
+## <img width=44 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> — Stranger Case OSINT CTF [2024]  
 
 #### 🥈 2ème Place sur plus de 100 équipes 
 
@@ -233,7 +233,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-# 🧩 Conception de CTF (Capture The Flag)
+# 🧩 Conception de challenges
 
 **Nous ne faisons pas que participer aux CTF, nous les concevons aussi !**
 
@@ -245,7 +245,7 @@ Notre approche repose sur la création d’expériences scénarisées, construit
 À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
 
 
-## imgwidth=42 src="https://imgs.search.brave.com/sfgHdg3mbpACS5h8QIYv6K2Ln_w4XY3PYUsbr6BfRT0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L01p/bmlzdCVDMyVBOHJl/X2Rlc19Bcm0lQzMl/QTllcy5zdmcvMjUw/cHgtTWluaXN0JUMz/JUE4cmVfZGVzX0Fy/bSVDMyVBOWVzLnN2/Zy5wbmc"> 🛡️ Égide — Capture The Flag du Ministère des Armées [2025]
+## <img width=52 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png/330px-Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png"> — Égide [2025]
 
 Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide du Capture The Flag organisé par le [Ministère des Armées](https://www.linkedin.com/posts/ministere-des-armees_%C3%A9gide2025-activity-7287453919184650240-HmIA/), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et [VIGINUM](https://fr.wikipedia.org/wiki/VIGINUM).
 
@@ -254,9 +254,9 @@ Ce défi, centré sur la **lutte contre les manipulations de l’information** (
 🔗 **Lien vers l’événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
 
 
-## <img width=33 src="https://media.licdn.com/dms/image/v2/C4D0BAQE_pjlLkNPv7Q/company-logo_200_200/company-logo_200_200/0/1630464491015/bpifrance_logo?e=1778112000&v=beta&t=vEclbnt7jdJG4y6DLu2r5duvm1TgeRfWwlQiz0wWChQ"> 🟠 Mission Vérité — BPI [2025]
+## <img width=60 src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Bpifrance.svg/langfr-500px-Logo_Bpifrance.svg.png"> — Mission Vérité [2025]
 
-
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png/330px-Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png
 
 Nous avons également conçu le CTF Mission Vérité pour la communauté [BPIfrance.io](https://www.linkedin.com/feed/update/urn:li:activity:7369632940462350336/). Le challenge s’est déroulé en deux phases :
 - une première étape entièrement en ligne
