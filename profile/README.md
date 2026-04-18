@@ -10,17 +10,17 @@
 
 # Qui sommes-nous ?
 
-Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante.
+👉 Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT). Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante.
 
 Cette évolution traduit la volonté de pérenniser ses actions, d’encadrer ses pratiques et de renforcer son engagement dans des démarches à la fois collaboratives, éthiques et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
 
-Notre nom est un clin d'œil à la série française d'espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur. C'est aussi une manière d'affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.
+📺 Notre nom est un clin d'œil à la série française d'espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur. C'est aussi une manière d'affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.
 
 Dans une démarche d'impact positif, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
 
 Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore.
 
-Fidèles à notre devise : **Blaireau parfois, Légende toujours!**
+🔎 Fidèles à notre devise : **Blaireau parfois, Légende toujours!**
 
 ---
 
@@ -52,21 +52,21 @@ Les membres actifs constituent le cœur opérationnel de l’association. Ils pa
 
 | Nom            | Alias                | Rôle               | Réseau             | Avatar
 |----------------|----------------------|--------------------|--------------------|--------------------|
-| 🕵️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)                     | <img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
-| 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
-| 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
-| 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
-| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://github.com/OSINT.SARL)                     | <img width="33" src="https://osint.sarl/uploads/logo_blanc.gif">
+| 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
+| 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
+| 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
+| 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1">
+| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://github.com/OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif">
 
 ## 🫡 Réservistes
 Les membres réservistes complètent ponctuellement les activités de l’association selon les besoins opérationnels, les disponibilités ou les missions spécifiques. Ils constituent un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles. Le recrutement de ces membres se fait exclusivement par parrainage, afin de garantir la cohérence, la qualité des profils et l’alignement avec les valeurs de l’association. Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs.
 
 | Nom            | Alias                | Réseau             | Avatar
 |----------------|----------------------|--------------------|--------------------|
-| 🕵️ Julien      | *cpasmonvraipseudo*         | [Blaireau réserviste](https://www.linkedin.com/in/vaju/)                     | <img width="33" src="https://osint317.org/files/3343e0515f88f2a3c713d152c9acd64b/logo317_sticker_vector.png">
-| 🥊 Youri       | *Tzar*     | [Blaireau réserviste](https://github.com/C3n7ral051nt4g3ncy) | <img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF">
-| 🏉 Tancrède    | *TestaDiAnguria*    | [Blaireau réserviste](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)                 | <img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg">
-| 👁️ Luc         | *M3SS*       | [Blaireau réserviste]([https://github.com/rHACK00n](https://x.com/0x4D335353))                     | <img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg">
+| 👨‍💻 Julien      | *cpasmonvraipseudo*         | [Blaireau réserviste](https://www.linkedin.com/in/vaju/)                     | <div style="text-align: center;"><img width="33" src="https://osint317.org/files/3343e0515f88f2a3c713d152c9acd64b/logo317_sticker_vector.png"></div>
+| 🥊 Youri       | *Tzar*     | [Blaireau réserviste](https://www.linkedin.com/in/youri4/) | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
+| 🏉 Tancrède    | *TestaDiAnguria*    | [Blaireau réserviste](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)                 | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
+| 👁️ Luc         | *M3SS*       | [Blaireau réserviste](https://twitter.com/0x4D335353)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
 
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur investissement passé mérite d’être reconnu et mis à l’honneur.
@@ -75,13 +75,13 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 
 | Nom            | Alias                | Réseau             | Avatar
 |----------------|----------------------|--------------------|--------------------|
-| ⛽ Baboulinet     | *Blaireau Sans-Plomb*      | [Baboulinet](https://x.com/Baboulinet_Off/)                     | <img width="33" src="[https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8](https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg)">
+| ⛽ Baboulinet     | *Blaireau Sans-Plomb*      | [Baboulinet](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="[https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8](https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg)"></div>
 
 ---
 
 # 🏆 Nos faits d’armes
 
-## 🕵🏻 CTF EGE HUNT (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
+## 🦉 CTF EGE HUNT (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
 
 #### 🥇 Première place sur 67 équipes
 
@@ -232,14 +232,11 @@ Sa manière d’avancer : patiente, organisée, précise, en fait une métaphore
 Son mode de vie repose sur une endurance discrète : agir dans la durée, en s’adaptant à son environnement avec intelligence plutôt qu’avec force brute.
 
 Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
-→ la résilience → revenir à la tâche, encore et toujours,
-→ la méthode → structurer pour comprendre,
-→ l’adaptabilité → évoluer sur tous les terrains.
+→ **la résilience** → revenir à la tâche, encore et toujours,
+→ **la méthode** → structurer pour comprendre,
+→ **l’adaptabilité** → évoluer sur tous les terrains.
 
-**Flair affûté. Esprit structuré. Clavier aiguisé.**
-
-Dans la forêt comme dans le cyberespace, la logique reste la même :
-**la surface informe. La profondeur révèle.**
+**Flair affûté. Esprit structuré. Clavier aiguisé.** Dans la forêt comme dans le cyberespace, la logique reste la même : **la surface informe, la profondeur révèle.**
 
 ---
 
