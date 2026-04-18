@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🇬🇧 The Legendary Badgers | Les Blaireaux des Légendes 🇫🇷
-# OSINT & Digital Investigation Collective
+### 🧭 OSINT & Digital Investigation Collective
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge)
 
