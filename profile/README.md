@@ -270,7 +270,6 @@ Dans la forêt comme dans le cyberespace, la logique reste la même :
 ---
 
 # 💬 Envie de nous suivre ou de nous soutenir ?
----
 
 Nous sommes à la recherche de lieux singuliers, prêts à devenir notre tanière à l’occasion de nos prochains challenges : des espaces d’accueil choisis, pensés comme des points d’ancrage éphémères, nous permettant de prendre part à nos compétitions à venir et de devenir, le temps d’un instant, les partenaires d’une performance collective.
 
@@ -278,7 +277,7 @@ Nous ouvrons également nos pratiques au partage et à la transmission, à trave
 
 📬 Pour collaborer avec nous, envisager un partenariat, un sponsoring de nos prochaines aventures, **ou pour tout besoin d’assistance**, n’hésitez pas à nous contacter   ↴
 
-👉 **Contactez-nous** lesblaireauxdeslegendes[@]proton.me — [LinkedIn](https://www.linkedin.com/company/bdl-osint)
+👉 **Contactez-nous :** lesblaireauxdeslegendes[@]proton.me — [LinkedIn](https://www.linkedin.com/company/bdl-osint)
 
 ---
 
