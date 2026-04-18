@@ -4,7 +4,7 @@
 
 ---
 
-### Blaireau parfois, Légende toujours ! 🦡
+### 🦡 Blaireau parfois, Légende toujours !
 
 <img width="433" src="https://github.com/user-attachments/assets/450f11b8-e82f-4f47-8acd-f828ab47baa8">
 
