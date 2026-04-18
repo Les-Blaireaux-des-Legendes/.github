@@ -212,7 +212,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 # 🚩 Conception de CTF (Capture The Flag) 🇫🇷
 
-Nous ne faisons pas que participer aux CTF : **nous les concevons aussi**.
+**Nous ne faisons pas que participer aux CTF : nous les concevons aussi**.
 
 Nous croyons en un apprentissage par l’expérience, ancré dans des situations réalistes.
 Forts de nos compétences complémentaires et de notre savoir-faire opérationnel, nous concevons des défis gamifiés qui dépassent la simple évaluation technique pour devenir de véritables enquêtes immersives.
