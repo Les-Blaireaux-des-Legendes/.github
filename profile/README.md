@@ -258,7 +258,7 @@ Il ne recule pas face à un obstacle : il creuse, trouve des chemins alternatifs
 Sa manière d’avancer : patiente, organisée, précise, en fait une métaphore de la rigueur analytique.
 Son mode de vie repose sur une endurance discrète : agir dans la durée, en s’adaptant à son environnement avec intelligence plutôt qu’avec force brute.
 
-Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
+**Flair affûté. Esprit structuré. Clavier aiguisé.** Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
 
 → **la résilience** → revenir à la tâche, encore et toujours,
 
@@ -266,8 +266,8 @@ Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
 
 → **l’adaptabilité** → évoluer sur tous les terrains.
 
-**Flair affûté. Esprit structuré. Clavier aiguisé.**
 Dans la forêt comme dans le cyberespace, la logique reste la même :
+
 **la surface informe, la profondeur révèle.**
 
 ---
