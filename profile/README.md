@@ -58,8 +58,8 @@ L’association favorise en revanche le développement de partenariats externes 
 ## 🦡 Membres actifs
 Les membres actifs constituent le cœur opérationnel de l’association. Ils participent de manière régulière aux activités, contribuent activement au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés.
 
-| Nom            | Alias                | Rôle               | Réseau                           |
-|----------------|----------------------|--------------------|----------------------------------------|
+| Nom            | Alias                | Rôle               | Réseau | Avatar               
+|----------------|----------------------|--------------------|----------------------|-------------------------|
 | 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
 | 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
 | 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
@@ -69,7 +69,7 @@ Les membres actifs constituent le cœur opérationnel de l’association. Ils pa
 ## 🫡 Réservistes
 Les membres réservistes complètent ponctuellement les activités de l’association selon les besoins opérationnels, les disponibilités ou les missions spécifiques. Ils constituent un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles. Le recrutement de ces membres se fait exclusivement par parrainage, afin de garantir la cohérence, la qualité des profils et l’alignement avec les valeurs de l’association. Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs.
 
-| Nom            | Alias                | Renfort               
+| Nom            | Alias                | Renfort  | Avatar                            
 |----------------|----------------------|--------------------|--------------------|
 | 👨‍💻 Julien      | [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
 | 👁️ Luc         | [M3SS](https://twitter.com/0x4D335353)                   |  Hexa   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
@@ -83,7 +83,7 @@ Les vétérans sont d’anciens membres ayant contribué aux activités de l’a
 
 Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement conseils, retours d’expérience ou éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité et à la mémoire des travaux du collectif.
 
-| Nom            | Alias              
+| Nom            | Alias        | Avatar                     
 |----------------|----------------------|--------------------|
 | ⛽ Baboulinet     | [Blaireau Sans-Plomb](https://x.com/Baboulinet_Off/)                     | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"></div>
 
@@ -91,7 +91,7 @@ Ils constituent un réseau d’appui informel, pouvant apporter ponctuellement c
 ## 🤝 Partenaires
 Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos partenaires, que nous remercions pour leur engagement à nos côtés.
 
-| Nom            | Description                | Réseau          
+| Nom            | Description                | Réseau    | Logo                     
 |----------------|----------------------|--------------------|--------------------|
 | 👮‍♂️ HexaPol     | *Hexapol est la première structure française dédiée à la mise en sécurité des salles d’armes. Entité du groupe HEXA, elle accompagne notamment les forces de l’ordre françaises dans la sécurisation et la gestion de leurs équipements réglementaires. Hexapol déploie son expertise au travers d’une approche globale intégrant sécurité, organisation et traçabilité, afin de concevoir des solutions sur mesure répondant aux exigences opérationnelles de ses clients.* | [Groupe Hexa](https://hexapol.com/a-propos/)                     | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"></div>
 | 🦊 Hackolyte     | *Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information.*     | [Hackolyte](https://github.com/HACK-OLYTE)                     | <div style="text-align: center;"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"></div>
