@@ -61,13 +61,13 @@ Les membres actifs constituent la colonne vertébrale de l’organisation opéra
 
 Ils participent de manière régulière aux activités, contribuent au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés :
 
-| Nom            | Alias                | Rôle               | Réseau | Avatar               
-|----------------|----------------------|--------------------|----------------------|-------------------------|
-| <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"></div> Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           
-| 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340"></div>
-| 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34"></div>
-| 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1"></div>
-| 🥷 Pierre     | *Blaireau Furtif*       | Membre       | [OSINT.SARL](https://www.OSINT.SARL)                     | <div style="text-align: center;"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif"></div>
+| Nom | Alias | Rôle | Réseau |
+|:---:|:---:|:---:|:---:|
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"/><br><strong>Steven</strong></div> | *Blaireau Rusé* | Président | [0SINTER](https://github.com/0SINTER) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340"/><br><strong>Yoni</strong></div> | *Blaireau Tactique* | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34"/><br><strong>Alexis</strong></div> | *Blaireau Technique* | Co-fondateur | [AlexisMrts](https://github.com/AlexisMrts) |
+| <div align="center"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1"/><br><strong>Doriane</strong></div> | *Blairelle Recon* | Co-fondateur | [rHACK00n](https://github.com/rHACK00n) |
+| <div align="center"><img width="33" src="https://osint.sarl/uploads/logo_blanc.gif"/><br><strong>Pierre</strong></div> | *Blaireau Furtif* | Membre | [OSINT.SARL](https://www.OSINT.SARL) |
 
 ## 🫡 Réservistes
 Les réservistes constituent un poumon de l’association, venant compléter ponctuellement les activités selon les besoins, les disponibilités ou les missions spécifiques.
