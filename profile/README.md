@@ -76,7 +76,7 @@ Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la
 | 👨‍💻 [cpasmonvraipseudo](https://www.linkedin.com/in/vaju/)      |  Stranger Case x Hunt | <div style="text-align: center;"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"></div>
 | 👁️ [M3SS](https://twitter.com/0x4D335353)                   |  Hexa OSINT CTF   | <div style="text-align: center;"><img width="33" src="https://pbs.twimg.com/profile_images/1770530457815334912/dD18eHOn_400x400.jpg"></div>
 | 🥊 [Tzar](https://www.linkedin.com/in/youri4/) |  Hexa OSINT CTF    | <div style="text-align: center;"><img width="33" src="https://i5.walmartimages.com/seo/Napoleon-Rex-CANVAS-OR-PRINT-WALL-ART_f0f6d785-fdd2-49b5-ba9b-0ba87fe96c85.77dcc2ae8758796fa8d4ccc97c61c22f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"></div>
-| 🏉 [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  | CTF Le Bruit des Bottes | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
+| 🏉 [TestaDiAnguria](https://www.linkedin.com/in/tancr%C3%A8de-c-34018a114/)  | Medileak OSINT CTF | <div style="text-align: center;"><img width="33" src="https://i.pinimg.com/custom_covers/200x150/483574147427964512_1402507000.jpg"></div>
 
 
 ## 🎖 Vétérans
