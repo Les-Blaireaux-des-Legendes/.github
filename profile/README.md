@@ -58,8 +58,8 @@ L’association favorise en revanche le développement de partenariats externes 
 ## 🦡 Membres actifs
 Les membres actifs constituent le cœur opérationnel de l’association. Ils participent de manière régulière aux activités, contribuent activement au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés.
 
-| Nom            | Alias                | Rôle               | Réseau             |
-|----------------|----------------------|--------------------|--------------------|
+| Nom            | Alias                | Rôle               | Réseau                           |
+|----------------|----------------------|--------------------|----------------------------------------|
 | 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8">
 | 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340">
 | 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34">
