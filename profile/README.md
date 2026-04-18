@@ -100,6 +100,12 @@ Nos missions ne pourraient voir le jour sans la confiance et le soutien de nos p
 
 # 🏆 Nos faits d’armes
 
+Nos succès reposent sur une dynamique collective, où la performance individuelle s’efface au profit de la réussite commune. Ils reflètent la force du travail en équipe et incarnent la complémentarité des expertises du groupe.
+
+Chaque mission est également l’occasion de remettre nos compétences en question, avec exigence et humilité. Nous aimons challenger nos acquis, éprouver nos méthodes, tester de nouveaux outils et tirer des enseignements concrets de chaque expérience.
+
+Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de la performance nourrit notre progression et permet d’améliorer en continu nos pratiques opérationnelles.
+
 ## 🦉 CTF HUNT EGE (École de Guerre Économique) — 2025 <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/>
 
 #### 🥇 1ère place sur 67 équipes
@@ -255,18 +261,21 @@ Dans la forêt comme dans le cyberespace, la logique reste la même :
 
 ---
 
-## 💬 Envie de nous suivre ou de nous soutenir ?
+# 💬 Envie de nous suivre ou de nous soutenir ?
 ---
 
-*Les Blaireaux des Légendes – .*
-Vous êtes une structure, une asso, une entreprise ? 
-📬 Pour en savoir plus, collaborer avec nous, ou envisager un partenariat ou un sponsoring de nos prochaines aventures, n’hésitez pas à nous contacter !
-👉 **Contactez-nous** via [LinkedIn](https://www.linkedin.com/company/bdl-osint)
+Nous sommes à la recherche de lieux prêts à devenir notre tanière le temps d’un challenge ou d’un événement : des espaces d’accueil servant de points d’ancrage éphémères, nous permettant de participer à l’une de nos prochaines compétitions, et de devenir, le temps d’un instant, le partenaire d’une performance collective.
+
+Nous ouvrons également nos pratiques au partage et à la transmission, à travers des services pro bono d’assistance, d’animation et de création de contenu : conférences, articles, podcasts, ateliers ou interventions. Autant de formats pour raconter le terrain, partager notre vision et faire vivre l’esprit d’équipe qui nous anime.
+
+📬 Pour collaborer avec nous, envisager un partenariat, un sponsoring de nos prochaines aventures, ou pour tout besoin d’assistance, n’hésitez pas à nous contacter !
+
+👉 **Contactez-nous** lesblaireauxdeslegendes[@]proton.me — [LinkedIn](https://www.linkedin.com/company/bdl-osint)
 
 ---
 
-> _"Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance."_  
-> – Un vieux blaireau
+> « Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance… et un bon maté à 2h du matin 🧉»
+> — Un vieux blaireau 🦡
 
 ---
 
