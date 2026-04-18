@@ -206,8 +206,8 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=42 src="https://www.pasteboard.co/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]  
-<img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb"> 
+## <img width=42 src="https://www.pasteboard.co/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]   
+
 #### 🥉 3ème Place sur 59 finalistes
 
 ---
@@ -245,7 +245,7 @@ Notre approche repose sur la création d’expériences scénarisées, construit
 À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
 
 
-## 🛡️ Égide — Capture The Flag du Ministère des Armées 🇫🇷 [2025]
+## imgwidth=42 src="https://imgs.search.brave.com/sfgHdg3mbpACS5h8QIYv6K2Ln_w4XY3PYUsbr6BfRT0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L01p/bmlzdCVDMyVBOHJl/X2Rlc19Bcm0lQzMl/QTllcy5zdmcvMjUw/cHgtTWluaXN0JUMz/JUE4cmVfZGVzX0Fy/bSVDMyVBOWVzLnN2/Zy5wbmc"> 🛡️ Égide — Capture The Flag du Ministère des Armées [2025]
 
 Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide du Capture The Flag organisé par le [Ministère des Armées](https://www.linkedin.com/posts/ministere-des-armees_%C3%A9gide2025-activity-7287453919184650240-HmIA/), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et [VIGINUM](https://fr.wikipedia.org/wiki/VIGINUM).
 
@@ -254,7 +254,9 @@ Ce défi, centré sur la **lutte contre les manipulations de l’information** (
 🔗 **Lien vers l’événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
 
 
-## 🟠 Mission Vérité — BPI [2025]
+## <img width=33 src="https://media.licdn.com/dms/image/v2/C4D0BAQE_pjlLkNPv7Q/company-logo_200_200/company-logo_200_200/0/1630464491015/bpifrance_logo?e=1778112000&v=beta&t=vEclbnt7jdJG4y6DLu2r5duvm1TgeRfWwlQiz0wWChQ"> 🟠 Mission Vérité — BPI [2025]
+
+
 
 Nous avons également conçu le CTF Mission Vérité pour la communauté [BPIfrance.io](https://www.linkedin.com/feed/update/urn:li:activity:7369632940462350336/). Le challenge s’est déroulé en deux phases :
 - une première étape entièrement en ligne
