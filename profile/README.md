@@ -63,7 +63,7 @@ Ils participent de manière régulière aux activités, contribuent au développ
 
 | Nom            | Alias                | Rôle               | Réseau | Avatar               
 |----------------|----------------------|--------------------|----------------------|-------------------------|
-| 🕵️‍♂️ Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"></div>
+| <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/cefc83f5-746a-4acd-85a1-c5845a27f7f8"></div> Steven     | *Blaireau Rusé*         | Président | [0SINTER](https://github.com/0SINTER)            |           
 | 🪖 Yoni       | *Blaireau Tactique*     | Vice-président | [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy) | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/60de1efc-bfda-4b9d-abea-067228203340"></div>
 | 📡 Alexis     | *Blaireau Technique*    | Co-fondateur       | [AlexisMrts](https://github.com/AlexisMrts)                 | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/5b7c06d1-f17b-4e9b-8c85-0da844470f34"></div>
 | 🦝 Doriane    | *Blairelle Recon*       | Co-fondateur        | [rHACK00n](https://github.com/rHACK00n)                     | <div style="text-align: center;"><img width="33" src="https://github.com/user-attachments/assets/7e67a361-7d5d-447d-abbb-d0c25c1c4ab1"></div>
