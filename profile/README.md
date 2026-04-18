@@ -225,11 +225,11 @@ Notre approche repose sur la création d’expériences scénarisées, construit
 À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
 
 
-## 🇫🇷 Égide — Capture The Flag du Ministère des Armées
+## 🛡️ Égide — Capture The Flag du Ministère des Armées 🇫🇷
 
-Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide du Capture The Flag organisé par le [Ministère des Armées](https://www.linkedin.com/posts/ministere-des-armees_%C3%A9gide2025-activity-7287453919184650240-HmIA/), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et VIGINUM.
+Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide du Capture The Flag organisé par le [Ministère des Armées](https://www.linkedin.com/posts/ministere-des-armees_%C3%A9gide2025-activity-7287453919184650240-HmIA/), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et [VIGINUM](https://fr.wikipedia.org/wiki/VIGINUM).
 
-Ce défi, centré sur la **lutte contre les manipulations de l’information (LMI)**, proposait une enquête OSINT immersive visant à renforcer la résilience des participants face aux campagnes d’influence et aux opérations informationnelles contemporaines.
+Ce défi, centré sur la **lutte contre les manipulations de l’information ([LMI](https://www.portail-ie.fr/univers/2025/panorama-des-acteurs-francais-de-la-lutte-contre-la-manipulation-de-linformation/))**, proche des conditions du réel, visant à renforcer la résilience des participants face aux campagnes d’influence et aux opérations informationnelles contemporaines. À travers un scénario interactif, des environnements médiatiques simulés et du contenu informationnel varié (articles, publications sociales, vidéos et messages contextuels), les participants étaient confrontés à des situations réalistes de circulation de l’information, les incitant à analyser et contrer les mécanismes de manipulation de l’information. L’objectif était de développer des réflexes critiques durables, une meilleure compréhension des stratégies d’influence, ainsi qu’une capacité accrue à distinguer les contenus fiables des narratifs construits.
 
 🔗 **Lien vers l'événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
 
