@@ -14,7 +14,8 @@
 
 Cette évolution traduit la volonté de pérenniser ses actions, d’encadrer ses pratiques et de renforcer son engagement dans des démarches à la fois collaboratives, éthiques et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
 
-📺 Notre nom est un clin d'œil à la série française d'espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur. C'est aussi une manière d'affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.
+📺 Notre nom est un clin d'œil à la série française d'espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
+**C'est aussi une manière d'affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
 
 Dans une démarche d'impact positif, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d'abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l'aide et l'accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
 
