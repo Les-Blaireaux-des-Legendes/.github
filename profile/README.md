@@ -54,7 +54,9 @@ Elle s’appuie également sur une forte cohésion interne, un esprit d’équip
 L’association favorise en revanche le développement de partenariats externes avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses missions. Ces collaborations peuvent prendre différentes formes (échanges de compétences, projets conjoints, soutien ponctuel, échanges de visibilité, tests de solutions ou d’outils, etc).
 
 ## 🦡 Membres actifs
-Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association. Ils participent de manière régulière aux activités, contribuent au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés :
+Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association.
+
+Ils participent de manière régulière aux activités, contribuent au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés :
 
 | Nom            | Alias                | Rôle               | Réseau | Avatar               
 |----------------|----------------------|--------------------|----------------------|-------------------------|
