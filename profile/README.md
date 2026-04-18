@@ -97,7 +97,7 @@ Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la
 
 ---
 
-# ⚜️​ Hall of Fame
+# ⚜️​ Hall of Fame ⚜️
 
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
@@ -106,9 +106,9 @@ Ils constituent également un réseau d’appui informel, susceptible d’apport
 
 <div align="center">
 
-| Name | Alias |
-|:---:|:---:|
-| <div align="center"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"/><br><strong>Baboulinet</strong></div> | [Unleaded Badger](https://x.com/Baboulinet_Off/) |
+| Name |
+|:---:|
+| <img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"><br><strong>**Baboulinet**</strong><br><span style="font-size:12px"><a href="https://x.com/Baboulinet_Off/">Unleaded Badger</a></span> |
 
 </div>
 
