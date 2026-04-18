@@ -16,16 +16,15 @@
 
 ---
 
-
 # 🔎 Qui sommes-nous ?
 
 ∙ Fondée en 2024, **Les Blaireaux des Légendes** est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT).
 
-∙ Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général.
+∙ Dans un second temps, face à l’essor progressif de ses activités, le collectif s’est officiellement constitué en [association loi 1901](https://annuaire-entreprises.data.gouv.fr/entreprise/les-blaireaux-des-legendes-993380013) l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général.
 
-∙ Dans une volonté de contribution positive à la société, nous pouvons mener des actions à caractère humanitaire, incluant la lutte contre la désinformation et diverses formes de contenus et comportements abusifs en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l’assistance et l’accompagnement des victimes de cyberharcèlement, dans le but de promouvoir un environnement numérique plus sûr et responsable.
+∙ À cet effet, dans une volonté de contribution positive à la société, nous pouvons mener des actions à caractère humanitaire, incluant la lutte contre la désinformation et diverses formes de contenus et comportements abusifs en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l’assistance et l’accompagnement des victimes de cyberharcèlement, dans le but de promouvoir un environnement numérique plus sûr et responsable.
 
-∙Enfin,  notre nom est un clin d’œil à la série française d’espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en altérer la rigueur.
+∙ Enfin, notre nom est un clin d’œil à la série française d’espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en altérer la rigueur.
 **À ce titre, il traduit aussi une manière d’affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
 
 👉 **Fidèles à notre devise : Blaireau parfois, Légende toujours !**
@@ -64,7 +63,6 @@ L’association favorise en revanche le développement de partenariats externes 
 Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association.
 
 Ils participent de manière régulière aux activités, contribuent au développement des compétences collectives du groupe, à la conception de méthodologies d’enquête, ainsi qu’à l’amélioration continue des outils et pratiques utilisés :
-
 
 <div align="center">
 
@@ -112,7 +110,6 @@ Ils constituent également un réseau d’appui informel, susceptible d’apport
 | <div align="center"><img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"/><br><strong>Baboulinet</strong></div> | [Unleaded Badger](https://x.com/Baboulinet_Off/) |
 
 </div>
-
 
 ## 🤝 Partenaires
 Nos missions ne prendraient pas la même ampleur sans la confiance et le soutien de nos partenaires. Acteurs essentiels de ce que nous construisons collectivement, leur engagement à nos côtés renforce nos actions et en démultiplie l’impact.
@@ -244,7 +241,6 @@ Notre approche repose sur la création d’expériences scénarisées, construit
 
 À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
 
-
 ## <img width=52 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png/330px-Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png"> — Égide [2025]
 
 Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide du Capture The Flag organisé par le [Ministère des Armées](https://www.linkedin.com/posts/ministere-des-armees_%C3%A9gide2025-activity-7287453919184650240-HmIA/), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et [VIGINUM](https://fr.wikipedia.org/wiki/VIGINUM).
@@ -252,7 +248,6 @@ Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide 
 Ce défi, centré sur la **lutte contre les manipulations de l’information** ([LMI](https://www.portail-ie.fr/univers/2025/panorama-des-acteurs-francais-de-la-lutte-contre-la-manipulation-de-linformation/)), proche des conditions du réel, visant à renforcer la résilience des participants face aux campagnes d’influence et aux opérations informationnelles contemporaines. À travers un scénario interactif, des environnements médiatiques simulés et du contenu informationnel varié (articles, publications sociales, vidéos et messages contextuels), les participants étaient confrontés à des situations réalistes de circulation de l’information, les incitant à analyser et contrer les mécanismes de manipulation de l’information. L’objectif était de développer des réflexes critiques durables, une meilleure compréhension des stratégies d’influence, ainsi qu’une capacité accrue à distinguer les contenus fiables des narratifs construits.
 
 🔗 **Lien vers l’événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
-
 
 ## <img width=60 src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Bpifrance.svg/langfr-500px-Logo_Bpifrance.svg.png"> — Mission Vérité [2025]
 
@@ -298,7 +293,7 @@ Nous sommes à la recherche de lieux singuliers, prêts à devenir notre tanièr
 
 Nous ouvrons également nos pratiques au partage et à la transmission, à travers des services Pro Bono d’assistance, d’animation et de création de contenu : conférences, articles, podcasts, ateliers ou interventions. Autant de formats pour partager notre vision et faire vivre l’esprit qui nous anime.
 
-📬 Pour collaborer avec nous, envisager un partenariat, un sponsoring de nos prochaines aventures, **ou pour tout besoin d’assistance**, n’hésitez pas à nous contacter   ↴
+📬 Pour collaborer avec nous, envisager un partenariat, un sponsoring de nos prochaines aventures, **ou pour tout besoin d’assistance**, n’hésitez pas à nous contacter  ⤵
 
 👉 **Contactez-nous :** lesblaireauxdeslegendes[@]proton.me — [LinkedIn](https://www.linkedin.com/company/bdl-osint)
 
