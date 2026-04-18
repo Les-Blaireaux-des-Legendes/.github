@@ -7,7 +7,7 @@
 
 ---
 
-### Badgers sometimes, Legends always.
+### 🦡 Badgers sometimes, Legends always.
 
 <img width="420" src="https://github.com/user-attachments/assets/450f11b8-e82f-4f47-8acd-f828ab47baa8">
 
