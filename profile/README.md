@@ -36,7 +36,7 @@
 
 → Assurer une veille technologique et méthodologique continue afin de suivre les évolutions des outils, des pratiques et des menaces liées à l’environnement numérique
 
-→ Agir pour le développement, la promotion et la démocratisation de la discipline du renseignement en sources ouvertes, en défendant une pratique éthique, responsable et collaborative des enquêtes OSINT. 
+→ Agir pour le développement, la promotion et la démocratisation de la discipline du renseignement en sources ouvertes, en défendant une pratique éthique, responsable et collaborative des enquêtes OSINT
 
 → Favoriser la diffusion des bonnes pratiques et encourager la montée en compétence des praticiens, notamment par des approches pédagogiques et ludiques fondées sur la gamification
 
