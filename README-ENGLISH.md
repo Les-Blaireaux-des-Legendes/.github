@@ -131,7 +131,7 @@ In addition, they preserve and transmit operational memory, ensuring that lesson
 
 | Name |
 |:---:|
-| <img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"><br><strong>Baboulinet</strong><br><span style="font-size:12px"><a href="https://x.com/Baboulinet_Off/">Unleaded Badger</a></span> |
+| <img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"><br><strong>**Baboulinet**</strong><br><span style="font-size:12px"><a href="https://x.com/Baboulinet_Off/">Unleaded Badger</a></span> |
 
 </div>
 
@@ -143,8 +143,8 @@ In addition, they preserve and transmit operational memory, ensuring that lesson
 
 | Name | Description | Network |
 |:---:|:---:|:---:|
-| <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"/><br><strong>HexaPol</strong></div> | Hexapol est la première structure française dédiée à la sécurisation des salles d’armes et à la gestion des équipements réglementaires. Entité du groupe HEXA, elle développe des solutions globales intégrant sécurité, organisation et traçabilité, conçues sur mesure pour répondre aux besoins et aux exigences opérationnelles de ses clients. | [Hexa Group](https://hexapol.com/a-propos/) |
-| <div align="center"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"/><br><strong>Hackolyte</strong></div> | Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information. | [Hackolyte](https://github.com/HACK-OLYTE) |
+| <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"/><br><strong>HexaPol</strong></div> | Hexapol is the first French organization dedicated to securing armories and managing regulated equipment. As part of the HEXA group, it develops comprehensive solutions that integrate security, organization, and traceability, designed specifically to meet the needs and operational requirements of its clients. | [Hexa Group](https://hexapol.com/a-propos/) |
+| <div align="center"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"/><br><strong>Hackolyte</strong></div> | Hackolyte is a non-profit association (under the French 1901 law) dedicated to promoting cybersecurity through an ethical and collaborative approach. It brings together experts, enthusiasts, and amateurs to engage with and address key information security challenges. | [Hackolyte](https://github.com/HACK-OLYTE) |
 
 </div>
 
