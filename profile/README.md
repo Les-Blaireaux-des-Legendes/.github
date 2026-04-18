@@ -28,12 +28,19 @@ Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bi
 # 🎯 Nos missions
 
 → Participer à des exercices et compétitions d’investigation en ligne de type Capture The Flag (CTF), ainsi qu’à des initiatives de recherche de personnes disparues, en collaboration avec des acteurs spécialisés
+
 → Contribuer au développement, à la promotion et à la démocratisation de la discipline du renseignement en sources ouvertes (OSINT)
+
 → Favoriser la diffusion des bonnes pratiques et encourager la montée en compétence des praticiens, notamment par des approches pédagogiques et ludiques fondées sur la gamification
+
 → Soutenir la visibilité et le rayonnement des communautés francophones évoluant dans les domaines de l’investigation numérique et de la cybersécurité à l’échelle internationale
+
 → Promouvoir une pratique éthique, responsable et collaborative des enquêtes en sources ouvertes
+
 → Développer et maintenir un haut niveau d’expertise dans les domaines de l’investigation numérique, incluant l’OSINT, le renseignement d’origine cyber, l’analyse de données, ainsi que les techniques d’investigation et d’élucidation avancées
+
 → Assurer une veille technologique et méthodologique continue afin de suivre les évolutions des outils, des pratiques et des menaces liées à l’environnement numérique
+
 → Contribuer à des actions de prévention et de lutte contre la désinformation, contre toutes formes d’abus en ligne et les contenus illicites, ainsi qu’à l’accompagnement des victimes de cyberharcèlement
 
 ---
