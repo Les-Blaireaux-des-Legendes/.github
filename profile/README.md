@@ -1,5 +1,7 @@
 # 🇫🇷 Les Blaireaux des Légendes | The Legendary Badgers 🇬🇧
 
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
 
 ---
@@ -10,19 +12,21 @@
 
 > _« Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore ! »_
 
+</div>
+
 ---
 
 
 # 🔎 Qui sommes-nous ?
 
-∙ Fondée en 2024, Les Blaireaux des Légendes est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT).
+∙ Fondée en 2024, **Les Blaireaux des Légendes** est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT).
 
-∙ Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général, notamment dans les domaines de l’investigation numérique et de la lutte contre les abus en ligne.
+∙ Dans un second temps, face à la structuration progressive de ses activités, le collectif s’est officiellement constitué en association loi 1901 l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général.
 
-∙ Dans une volonté de contribution positive à la société, nous pouvons également mener des actions à vocation humanitaire, incluant la lutte contre la désinformation et diverses formes d’abus en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l’aide et l’accompagnement des victimes de cyberharcèlement, afin de contribuer modestement à un environnement numérique plus sûr et plus responsable.
+∙ Dans une volonté de contribution positive à la société, nous pouvons mener des actions à caractère humanitaire, incluant la lutte contre la désinformation et diverses formes de contenus et comportements abusifs en ligne, notamment les contenus pédocriminels (type MASE), ainsi que l’assistance et l’accompagnement des victimes de cyberharcèlement, dans le but de promouvoir un environnement numérique plus sûr et responsable.
 
-∙ Notre nom est un clin d’œil à la série française d’espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en perdre la rigueur.
-**C’est aussi une manière d’affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
+∙Enfin,  notre nom est un clin d’œil à la série française d’espionnage éponyme et incarne humblement notre volonté de rendre le monde du renseignement plus accessible aux non-initiés, en levant une part de son mystère, sans en altérer la rigueur.
+**À ce titre, il traduit aussi une manière d’affirmer une philosophie simple : prendre notre travail au sérieux, sans jamais nous prendre trop au sérieux.**
 
 👉 **Fidèles à notre devise : Blaireau parfois, Légende toujours !**
 
@@ -82,7 +86,7 @@ Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la
 
 <div align="center">
 
-| External Contributor | Event Contribution |
+| Contributor | Event Contribution |
 |:---:|:---:|
 | <div align="center"><img width="33" src="https://avatars.githubusercontent.com/u/31013580?v=4"/><br><strong>Soxoj</strong></div> | Trace Labs OSINT Search Party CTF |
 | <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D560BAQFWiBlQXwNiNA/company-logo_200_200/company-logo_200_200/0/1708436047078/challenge_osint_317_logo?e=1778112000&v=beta&t=BRyNjFUdJgR8185FGeZ0zCUGQzgBOFGDnhwlgS5pgKk"/><br><strong>cpasmonvraipseudo</strong></div> | Stranger Case × Hunt |
@@ -134,7 +138,7 @@ Chaque mission est également l’occasion de remettre nos compétences en quest
 
 Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de la performance nourrit notre progression et permet d’améliorer en continu nos pratiques opérationnelles.
 
-## <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> CTF HUNT EGE (École de Guerre Économique) — 2025
+## <img width="33" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> — CTF HUNT EGE (École de Guerre Économique) [2025]
 
 #### 🥇 1ère place sur 67 équipes
 
@@ -143,7 +147,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d"> Trace Labs OSINT Search Party CTF — 2025.04  
+## <img width=29 src="https://github.com/user-attachments/assets/1e614d2c-5306-4c06-beac-e9c114a1879d"> — Trace Labs OSINT Search Party CTF [2025-04]  
 
 #### 🥇 1ère place sur +100 équipes
 
@@ -154,7 +158,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> HACK’OSINT CTF — 2025
+## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> — HACK’OSINT CTF [2025]
 
 #### 🥇 1ère place pour l’équipe "Tacos of Blaireaux"
 
@@ -163,7 +167,35 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48"> HEXA OSINT CTF — 2024
+## <img width=33 src="https://oscarzulu.org/wp-content/uploads/2024/01/rhinostyle.png"> — CTF Le Bruit des Bottes [2025] 
+
+#### 🥉 3ème Place sur 219 équipes
+
+- CTF en deux phases de deux week-ends
+- 219 équipes au départ, 6 équipes qui ont terminés le CTF
+- Challenges variés : HUMINT, évasion, manip sociale, rebondissements digne de polar
+
+---
+
+## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> — Medileak OSINT CTF [2025]
+
+#### Qualification pour la finale à Limoges
+
+- 2ème place au classement en rapidité, 5ème place au classement général suite à un fail
+- Notre équipe n’a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles et à céder sa place
+
+---
+
+## <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b"> — CTE (Capture the Evidence) Gendarmerie Nationale [2024]
+
+#### 6ème place sur 170 équipes
+
+- Capture The Evidence "Le Principe de Locard" organisé par la gendarmerie nationale (PACA)
+- 102 challenges répartis sur plusieurs catégories : reverse, web, osint, indus, IA, crypto, stegano
+
+---
+
+## <img width=33 src="https://github.com/user-attachments/assets/d4bded56-3e42-4f8a-ad4e-eabb722b7e48"> — HEXA OSINT CTF [2024]
 
 #### 🥇 1ère place sur +400 participants
 
@@ -174,7 +206,12 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> Stranger Case OSINT CTF — 2024  
+## <img width=42 src="https://www.pasteboard.co/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]  
+<img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb"> 
+#### 🥉 3ème Place sur 59 finalistes
+
+---
+## <img width=33 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> — Stranger Case OSINT CTF [2024]  
 
 #### 🥈 2ème Place sur plus de 100 équipes 
 
@@ -184,55 +221,21 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ---
 
-## <img width=42 src="https://github.com/user-attachments/assets/6a2b429b-c912-4e06-b9f2-ac3cbf427ceb"> Stranger Case x Hunt Finale - 2024  
-
-#### 🥉 3ème Place sur 59 finalistes
-
----
-
-## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> CTF Le Bruit des Bottes — 2025  
-
-#### 🥉 3ème Place sur 219 équipes
-
-- CTF en deux phases de deux week-ends
-- 219 équipes au départ, 6 équipes qui ont terminés le CTF
-- Challenges variés : HUMINT, évasion, manip sociale, rebondissements digne de polar
-
----
-
-## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> Medileak OSINT CTF — 2025
-
-#### Qualification pour la finale à Limoges
-
-- 2ème place au classement en rapidité, 5ème place au classement général suite à un fail
-- Notre équipe n’a pas pu se rendre à la finale du 03 juin 2025 à Limoges, dû à des obligations professionnelles et à céder sa place
-
----
-
-## <img width=52 src="https://github.com/user-attachments/assets/1692b15e-74bf-4355-8803-685d7ec9075b"> CTE (Capture the Evidence) Gendarmerie Nationale — 2024 
-
-#### 6ème place sur 170 équipes
-
-- Capture The Evidence "Le Principe de Locard" organisé par la gendarmerie nationale (PACA)
-- 102 challenges répartis sur plusieurs catégories : reverse, web, osint, indus, IA, crypto, stegano
-
----
-
-## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> Medileak OSINT CTF — 2024
+## <img width=33 src="https://github.com/user-attachments/assets/f0c2d5b9-e2bc-4472-96d3-615c1a677004"> — Medileak OSINT CTF [2024]
 
 #### 6ème place sur +110 équipes
 
 ---
 
-## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> HACK’OSINT CTF — 2024 
+## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> — HACK’OSINT CTF [2024]
 
 #### 8ème place sur 124 équipes 
 
 ---
 
-# 🚩 Conception de CTF (Capture The Flag) 🇫🇷
+# 🧩 Conception de CTF (Capture The Flag)
 
-**Nous ne faisons pas que participer aux CTF : nous les concevons aussi**.
+**Nous ne faisons pas que participer aux CTF, nous les concevons aussi !**
 
 Nous croyons en un apprentissage par l’expérience, ancré dans des situations réalistes.
 Forts de nos compétences complémentaires et de notre savoir-faire opérationnel, nous concevons des défis gamifiés qui dépassent la simple évaluation technique pour devenir de véritables enquêtes immersives.
@@ -242,20 +245,18 @@ Notre approche repose sur la création d’expériences scénarisées, construit
 À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
 
 
-## 🛡️ Égide — Capture The Flag du Ministère des Armées 🇫🇷
+## 🛡️ Égide — Capture The Flag du Ministère des Armées 🇫🇷 [2025]
 
 Nous avons eu l’honneur de co-concevoir un scénario pour l’édition Égide du Capture The Flag organisé par le [Ministère des Armées](https://www.linkedin.com/posts/ministere-des-armees_%C3%A9gide2025-activity-7287453919184650240-HmIA/), en partenariat avec le Ministère de l’Europe et des Affaires étrangères et [VIGINUM](https://fr.wikipedia.org/wiki/VIGINUM).
 
-Ce défi, centré sur la **lutte contre les manipulations de l’information ([LMI](https://www.portail-ie.fr/univers/2025/panorama-des-acteurs-francais-de-la-lutte-contre-la-manipulation-de-linformation/))**, proche des conditions du réel, visant à renforcer la résilience des participants face aux campagnes d’influence et aux opérations informationnelles contemporaines. À travers un scénario interactif, des environnements médiatiques simulés et du contenu informationnel varié (articles, publications sociales, vidéos et messages contextuels), les participants étaient confrontés à des situations réalistes de circulation de l’information, les incitant à analyser et contrer les mécanismes de manipulation de l’information. L’objectif était de développer des réflexes critiques durables, une meilleure compréhension des stratégies d’influence, ainsi qu’une capacité accrue à distinguer les contenus fiables des narratifs construits.
+Ce défi, centré sur la **lutte contre les manipulations de l’information** ([LMI](https://www.portail-ie.fr/univers/2025/panorama-des-acteurs-francais-de-la-lutte-contre-la-manipulation-de-linformation/)), proche des conditions du réel, visant à renforcer la résilience des participants face aux campagnes d’influence et aux opérations informationnelles contemporaines. À travers un scénario interactif, des environnements médiatiques simulés et du contenu informationnel varié (articles, publications sociales, vidéos et messages contextuels), les participants étaient confrontés à des situations réalistes de circulation de l’information, les incitant à analyser et contrer les mécanismes de manipulation de l’information. L’objectif était de développer des réflexes critiques durables, une meilleure compréhension des stratégies d’influence, ainsi qu’une capacité accrue à distinguer les contenus fiables des narratifs construits.
 
 🔗 **Lien vers l’événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
 
 
-## 🟠 Mission Vérité — BPI
+## 🟠 Mission Vérité — BPI [2025]
 
-Nous avons également conçu le CTF Mission Vérité pour la communauté [BPIfrance.io](https://www.linkedin.com/feed/update/urn:li:activity:7369632940462350336/).
-
-Le challenge s’est déroulé en deux phases :
+Nous avons également conçu le CTF Mission Vérité pour la communauté [BPIfrance.io](https://www.linkedin.com/feed/update/urn:li:activity:7369632940462350336/). Le challenge s’est déroulé en deux phases :
 - une première étape entièrement en ligne
 - une seconde phase hybride, organisée en présentiel à l’Accor Arena à l’occasion du BIG
 
