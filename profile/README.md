@@ -268,7 +268,7 @@ Nous sommes à la recherche de lieux singuliers, prêts à devenir notre tanièr
 
 Nous ouvrons également nos pratiques au partage et à la transmission, à travers des services Pro Bono d’assistance, d’animation et de création de contenu : conférences, articles, podcasts, ateliers ou interventions. Autant de formats pour partager notre vision et faire vivre l’esprit qui nous anime.
 
-📬 Pour collaborer avec nous, envisager un partenariat, un sponsoring de nos prochaines aventures, **ou pour tout besoin d’assistance**, n’hésitez pas à nous contacter  ⤸
+📬 Pour collaborer avec nous, envisager un partenariat, un sponsoring de nos prochaines aventures, **ou pour tout besoin d’assistance**, n’hésitez pas à nous contacter   ↴
 
 👉 **Contactez-nous** lesblaireauxdeslegendes[@]proton.me — [LinkedIn](https://www.linkedin.com/company/bdl-osint)
 
