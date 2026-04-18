@@ -274,7 +274,7 @@ Nous ouvrons également nos pratiques au partage et à la transmission, à trave
 
 ---
 
-> « Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance… et un bon maté à 2h du matin 🧉»
+> _« Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance… et un bon maté à 2h du matin 🧉»_
 — Un vieux blaireau 🦡
 
 ---
