@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🇫🇷 Les Blaireaux des Légendes | The Legendary Badgers 🇬🇧
+  # 🇫🇷 Les Blaireaux des Légendes | [The Legendary Badgers](https://github.com/Les-Blaireaux-des-Legendes/.github/blob/main/README-ENGLISH.md) 🇬🇧
   ### 🧭 Association spécialisée en OSINT et en investigation numérique
   
 <img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
@@ -52,13 +52,13 @@
 
 # 🌐​ Le Terrier
 
-Le recrutement au sein de l’association est actuellement fermé et n’a pas vocation à être ouvert de manière continue. Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos activités. 
+Le recrutement au sein de l’association est actuellement fermé et n’a pas vocation à être ouvert de manière continue. Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos missions. 
 
-Plutôt que d’adopter une logique de croissance des effectifs, Les Blaireaux des Légendes privilégient une approche qualitative fondée sur la stabilité de l’équipe et la consolidation des compétences existantes. Cette posture permet de garantir un cadre de travail rigoureux, une méthodologie homogène, ainsi qu’une coordination efficace dans les activités d’investigation et de recherche.
+Plutôt que d’adopter une logique de croissance des effectifs, nous privilégions une approche qualitative fondée sur la stabilité du groupe, le renforcement continu des compétences et la complémentarité de nos profils. 
 
-Elle s’appuie également sur une forte cohésion interne, un esprit d’équipe affirmé et une communication fluide au sein d’un écosystème non hiérarchisé, où la collaboration et la responsabilité individuelle priment sur les structures verticales.
+Cette posture garantit un cadre de travail rigoureux et soutient un haut niveau d’exigence opérationnelle, une méthodologie commune ainsi qu’une coordination fluide de nos activités, où la diversité des expertises constitue un levier essentiel d’efficacité collective. Elle s’appuie sur une forte cohésion interne, un esprit d’équipe affirmé et une communication fluide au sein d’un écosystème non hiérarchisé, où la collaboration et la responsabilité individuelle priment sur les structures verticales.
 
-L’association favorise en revanche le développement de partenariats externes avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses missions. Ces collaborations peuvent prendre différentes formes (échanges de compétences, projets conjoints, soutien ponctuel, échanges de visibilité, tests de solutions ou d’outils, etc).
+L’association favorise donc le développement de partenariats avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses activités. Ces collaborations peuvent prendre différentes formes (partage de ressources, développement de projets conjoints, soutien ponctuel, échanges de visibilité, ainsi que mise à disposition, tests et évaluation d’outils).
 
 ## 🦡 Membres actifs
 Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association.
@@ -102,7 +102,7 @@ Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
 
-Ils constituent également un réseau d’appui informel, susceptible d’apporter ponctuellement conseils, retours d’expérience et éclairages sur des problématiques spécifiques, contribuant ainsi à la continuité des travaux du collectif, en tant que mémoire vive et réseau de transmission :
+Ils constituent également un réseau d’appui informel, mobilisable ponctuellement pour apporter conseils, avis, retours d’expérience et éclairages. Ils contribuent ainsi à la continuité des travaux du collectif, en jouant un rôle de mémoire vivante et de vecteur de transmission des savoirs et des pratiques :
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Nous leur exprimons notre profonde reconnaissance pour leur contribution déterm
 | Name | Description | Network |
 |:---:|:---:|:---:|
 | <div align="center"><img width="33" src="https://media.licdn.com/dms/image/v2/D4D0BAQHkj16JTddnRw/img-crop_100/img-crop_100/0/1717700061077?e=1778112000&v=beta&t=vlrYqzMOhMM9nrsqg_FPrNyDYetlE5xWr3RlkZKrrns"/><br><strong>HexaPol</strong></div> | Hexapol est la première structure française dédiée à la sécurisation des salles d’armes et à la gestion des équipements réglementaires. Entité du groupe HEXA, elle développe des solutions globales intégrant sécurité, organisation et traçabilité, conçues sur mesure pour répondre aux besoins et aux exigences opérationnelles de ses clients. | [Hexa Group](https://hexapol.com/a-propos/) |
-| <div align="center"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"/><br><strong>Hackolyte</strong></div> | Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative, Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information. | [Hackolyte](https://github.com/HACK-OLYTE) |
+| <div align="center"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"/><br><strong>Hackolyte</strong></div> | Association loi 1901 dédiée à la promotion de la cybersécurité dans une approche éthique et collaborative. Hackolyte réunit experts, amateurs et passionnés autour des enjeux de la sécurité de l’information. | [Hackolyte](https://github.com/HACK-OLYTE) |
 
 </div>
 
@@ -238,7 +238,7 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 Nous croyons en un apprentissage par l’expérience, ancré dans des situations réalistes.
 Forts de nos compétences complémentaires et de notre savoir-faire opérationnel, nous concevons des défis gamifiés qui dépassent la simple évaluation technique pour devenir de véritables enquêtes immersives.
 
-Notre approche repose sur la création d’expériences scénarisées, construites autour de narrations solides et inspirées d’enjeux contemporains tels que la désinformation, l’influence, les opérations informationnelles et les cyber-menaces.
+Notre approche repose sur la création d’expériences scénarisées, construites autour de narrations solides et inspirées de nos expertises professionnelles respectives, en lien avec des enjeux contemporains tels que la désinformation, l’influence, les opérations informationnelles et les cybermenaces.
 
 À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
 
