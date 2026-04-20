@@ -236,11 +236,6 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 - Victoire des Blaireaux des légendes au Hack
 
 ---
-## <img width=60 src="https://gcdnb.pbrd.co/images/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]   
-
-#### 🥉 3ème Place sur 59 finalistes
-
----
 
 ## <img width=44 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> — Stranger Case OSINT CTF [2024]  
 
@@ -260,7 +255,12 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 ## <img width=33 src="https://github.com/user-attachments/assets/668d296d-5016-4836-9fe7-e523b2a96999"> — HACK’OSINT CTF [2024]
 
+---
+
 #### 8ème place sur 124 équipes 
+## <img width=60 src="https://gcdnb.pbrd.co/images/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]   
+
+#### 🥉 3ème Place sur 59 finalistes
 
 ---
 <div align="center">
@@ -318,7 +318,7 @@ Nous ouvrons également nos pratiques au partage et à la transmission, à trave
 
   > _« Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance… et un bon maté à 2h du matin 🧉 »_
 
-### — Un vieux blaireau 🦡
+### _— Un vieux blaireau 🦡_
 </div>
 
 ---
