@@ -81,7 +81,8 @@ Ils participent de manière régulière aux activités, contribuent au développ
 Les réservistes constituent un poumon de l’association, venant compléter ponctuellement les activités selon les besoins, les disponibilités ou les missions spécifiques.
 
 Leur implication s’inscrit dans une logique de flexibilité, de complémentarité et de coopération au service des objectifs collectifs. Ils forment un vivier de compétences mobilisables, apportant un soutien ciblé aux opérations, projets collaboratifs et initiatives ponctuelles.
-Leur recrutement est exclusivement réalisé par parrainage, afin de garantir la cohérence, la qualité des profils et leur alignement avec les valeurs de l’association :
+
+Le recrutement de nos renforts repose exclusivement sur un système de parrainage, assurant la cohérence des profils et leur alignement avec les valeurs de l’association, dans le respect d’un haut niveau d’exigence, à la fois professionnel et humain :
 
 <div align="center">
 
