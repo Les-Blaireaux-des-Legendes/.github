@@ -31,9 +31,12 @@
 👉 **Fidèles à notre devise : Blaireau parfois, Légende toujours !**
 
 ---
+<div align="center">
 
-# 🎯 Nos missions 🎯
+  # 🎯 Nos missions
 
+  </div>
+  
 → Participer à des exercices et compétitions d’investigation en ligne de type Capture The Flag (CTF), ainsi qu’à des initiatives de recherche de personnes disparues, en collaboration avec des acteurs spécialisés
 
 → Développer et maintenir un haut niveau d’expertise dans les domaines de l’investigation numérique, incluant l’OSINT, le renseignement d’origine cyber, l’analyse de données, ainsi que les techniques d’investigation et d’élucidation avancées
@@ -49,8 +52,10 @@
 → Œuvrer à la prévention et à la lutte contre la désinformation, les abus en ligne et les contenus illicites, tout en plaçant l’accompagnement des victimes de cyberharcèlement au cœur de l’action.
 
 ---
+<div align="center">
 
-# 🌐​ Le Terrier 🌐
+# 🌐​ Le Terrier
+</div>
 
 **Le recrutement est actuellement fermé et n’a pas vocation à être ouvert de manière continue.**
 
@@ -101,9 +106,9 @@ Le recrutement de nos renforts repose exclusivement sur un système de parrainag
 </div>
 
 ---
-
+<div align="center">
 # ⚜️​ Hall of Fame ⚜️
-
+</div>
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
 
