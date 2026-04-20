@@ -32,7 +32,7 @@
 
 ---
 
-# 🎯 Nos missions
+# 🎯 Nos missions 🎯
 
 → Participer à des exercices et compétitions d’investigation en ligne de type Capture The Flag (CTF), ainsi qu’à des initiatives de recherche de personnes disparues, en collaboration avec des acteurs spécialisés
 
@@ -50,7 +50,7 @@
 
 ---
 
-# 🌐​ Le Terrier
+# 🌐​ Le Terrier 🌐
 
 **Le recrutement est actuellement fermé et n’a pas vocation à être ouvert de manière continue.**
 
@@ -60,7 +60,9 @@ Plutôt que d’adopter une logique de croissance des effectifs, nous privilégi
 
 Cette posture garantit un cadre de travail rigoureux et soutient un haut niveau d’exigence opérationnelle, une méthodologie commune ainsi qu’une coordination fluide de nos activités, où la diversité des expertises constitue un levier essentiel d’efficacité collective. Elle s’appuie sur une forte cohésion interne, un esprit d’équipe affirmé et une communication fluide au sein d’un écosystème non hiérarchisé, où la collaboration et la responsabilité individuelle priment sur les structures verticales.
 
-**L’association favorise donc le développement de partenariats avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses activités. Ces collaborations peuvent prendre différentes formes (partage de ressources, développement de projets conjoints, soutien ponctuel, échanges de visibilité, mise à disposition, tests et évaluation d’outils).**
+**L’association favorise donc le développement de partenariats avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses activités.**
+
+Ces collaborations peuvent prendre différentes formes, telles que le partage de ressources, le développement de projets conjoints, le soutien ponctuel, les échanges de visibilité, la mise à disposition d’outils, ainsi que leur test et évaluation.
 
 ## 🦡 Membres actifs
 Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association.
