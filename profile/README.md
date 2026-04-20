@@ -16,9 +16,10 @@
 </div>
 
 ---
-
+<div align="center">
+  
 # 🔎🦡 Qui sommes-nous ?
-
+</div>
 ∙ Fondée en 2024, **Les Blaireaux des Légendes** est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT).
 
 ∙ Dans un second temps, face à l’essor progressif de ses activités, le collectif s’est officiellement constitué en [association loi 1901](https://annuaire-entreprises.data.gouv.fr/entreprise/les-blaireaux-des-legendes-993380013) l’année suivante. Cette évolution traduit la volonté d’encadrer ses pratiques, de pérenniser ses actions, et de renforcer son engagement dans des démarches à la fois collaboratives et orientées vers l’intérêt général.
@@ -30,12 +31,7 @@
 
 👉 **Fidèles à notre devise : Blaireau parfois, Légende toujours !**
 
----
-<div align="center">
-
-  # 🎯 Nos missions
-
-  </div>
+## 🎯 Nos missions
   
 → Participer à des exercices et compétitions d’investigation en ligne de type Capture The Flag (CTF), ainsi qu’à des initiatives de recherche de personnes disparues, en collaboration avec des acteurs spécialisés
 
@@ -51,10 +47,30 @@
 
 → Œuvrer à la prévention et à la lutte contre la désinformation, les abus en ligne et les contenus illicites, tout en plaçant l’accompagnement des victimes de cyberharcèlement au cœur de l’action.
 
+## 🐾 Pourquoi le Blaireau comme animal totem ?
+
+Parce que le blaireau est un animal de ténacité méthodique.
+Il ne recule pas face à un obstacle : il creuse, trouve des chemins alternatifs, approfondit.
+Sa manière d’avancer : patiente, organisée, précise, en fait une métaphore de la rigueur analytique.
+Son mode de vie repose sur une endurance discrète : agir dans la durée, en s’adaptant à son environnement avec intelligence plutôt qu’avec force brute.
+
+**Flair affûté. Esprit structuré. Clavier aiguisé.** Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
+
+→ **la résilience** → revenir à la tâche, encore et toujours,
+
+→ **la méthode** → structurer pour comprendre,
+
+→ **l’adaptabilité** → évoluer sur tous les terrains.
+
+Mais au-delà de l’image souvent caricaturale qui lui est associée, nous assumons et revendiquons le blaireau comme un symbole à réhabiliter. **Casser le mythe du "blaireau", c’est justement reconnaître la valeur de ce qui est discret et persistant.**
+
+Car dans la forêt comme dans le cyberespace, la logique reste la même : **la surface informe, la profondeur révèle.**
+
 ---
+
 <div align="center">
 
-# 🌐​ Le Terrier
+# 🌐​ Le Terrier 🌐
 </div>
 
 **Le recrutement est actuellement fermé et n’a pas vocation à être ouvert de manière continue.**
@@ -107,8 +123,10 @@ Le recrutement de nos renforts repose exclusivement sur un système de parrainag
 
 ---
 <div align="center">
+  
 # ⚜️​ Hall of Fame ⚜️
 </div>
+
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
 
@@ -137,14 +155,19 @@ Nous leur exprimons notre profonde reconnaissance pour leur contribution déterm
 </div>
 
 ---
+<div align="center">
 
-# 🏆 Nos faits d’armes
+# 🏆 Nos faits d’armes 🏆
+
+</div>
 
 Nos succès reposent sur une dynamique collective, où la performance individuelle s’efface au profit de la réussite commune. Ils reflètent la force du travail en équipe et incarnent la complémentarité des expertises du groupe.
 
 Chaque mission est également l’occasion de remettre nos compétences en question, avec exigence et humilité. Nous aimons challenger nos acquis, éprouver nos méthodes, tester de nouveaux outils et tirer des enseignements concrets de chaque expérience.
 
 Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de la performance nourrit notre progression et permet d’améliorer en continu nos pratiques opérationnelles.
+
+---
 
 ## <img width="52" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> — CTF HUNT EGE (École de Guerre Économique) [2025]
 
@@ -213,12 +236,12 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 - Victoire des Blaireaux des légendes au Hack
 
 ---
-
 ## <img width=60 src="https://gcdnb.pbrd.co/images/2pNb0yZHriqg.png"> — Stranger Case x Hunt Finale [2024]   
 
 #### 🥉 3ème Place sur 59 finalistes
 
 ---
+
 ## <img width=44 src="https://github.com/user-attachments/assets/db4aacbd-7889-4daf-92a3-5e0d5a554679"> — Stranger Case OSINT CTF [2024]  
 
 #### 🥈 2ème Place sur plus de 100 équipes 
@@ -240,16 +263,18 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 #### 8ème place sur 124 équipes 
 
 ---
+<div align="center">
 
-# 🧩 Conception de challenges
-
+# 🧩 Conception de challenges 🧩 
+</div>
+  
 **Participer aux CTF ne suffit pas : les concevoir fait aussi partie de notre démarche !**
 
 Animés par la conviction que l’apprentissage passe par l’expérience, nous privilégions des mises en situation réalistes et immersives. Forts de compétences complémentaires et d’un savoir-faire éprouvé, nous concevons des défis gamifiés qui dépassent la simple évaluation technique pour devenir de véritables enquêtes immersives.
 
 Notre approche repose sur la création d’expériences scénarisées, construites autour de narrations solides et inspirées de nos expertises professionnelles respectives, en lien avec des enjeux contemporains tels que la désinformation, l’influence, les opérations informationnelles et les cybermenaces.
 
-À travers ces expériences, les participants sont amenés à analyser, croiser les sources, enquêter et produire du sens à partir de l’information.
+**L’effet final recherché est de plonger les participants dans des environnements où ils sont amenés à analyser, croiser les sources, enquêter et _in fine_, développer leur capacité à produire du sens à partir de l’information.**
 
 ## <img width=52 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png/330px-Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png"> — Égide [2025]
 
@@ -260,8 +285,6 @@ Ce défi, centré sur la **lutte contre les manipulations de l’information** (
 🔗 **Lien vers l’événement** : [Capture The Flag Égide 2025](https://www.defense.gouv.fr/actualites/capture-the-flag-fait-son-retour-2025)
 
 ## <img width=60 src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Bpifrance.svg/langfr-500px-Logo_Bpifrance.svg.png"> — Mission Vérité [2025]
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png/330px-Minist%C3%A8re_des_Arm%C3%A9es_et_des_Anciens_Combattants.png
 
 Nous avons également conçu le CTF Mission Vérité pour la communauté [BPIfrance.io](https://www.linkedin.com/feed/update/urn:li:activity:7369632940462350336/). Le challenge s’est déroulé en deux phases :
 - une première étape entièrement en ligne
@@ -276,29 +299,12 @@ Au-delà de la compétition, l’objectif était double : progresser dans une na
 
 ---
 
-# 🐾 Pourquoi le Blaireau comme animal totem ?
+<div align="center">
+  
+# 📍 Envie de nous suivre ou de nous soutenir ? 💬
 
-Parce que le blaireau est un animal de ténacité méthodique.
-Il ne recule pas face à un obstacle : il creuse, trouve des chemins alternatifs, approfondit.
-Sa manière d’avancer : patiente, organisée, précise, en fait une métaphore de la rigueur analytique.
-Son mode de vie repose sur une endurance discrète : agir dans la durée, en s’adaptant à son environnement avec intelligence plutôt qu’avec force brute.
-
-**Flair affûté. Esprit structuré. Clavier aiguisé.** Le blaireau incarne ainsi trois qualités clés qui nous caractérisent :
-
-→ **la résilience** → revenir à la tâche, encore et toujours,
-
-→ **la méthode** → structurer pour comprendre,
-
-→ **l’adaptabilité** → évoluer sur tous les terrains.
-
-Mais au-delà de l’image souvent caricaturale qui lui est associée, nous assumons et revendiquons le blaireau comme un symbole à réhabiliter. **Casser le mythe du "blaireau", c’est justement reconnaître la valeur de ce qui est discret et persistant.**
-
-Car dans la forêt comme dans le cyberespace, la logique reste la même : **la surface informe, la profondeur révèle.**
-
----
-
-# 💬 Envie de nous suivre ou de nous soutenir ?
-
+</div>
+  
 Nous sommes à la recherche de lieux singuliers, prêts à devenir notre tanière à l’occasion de nos prochains challenges : des espaces d’accueil choisis, pensés comme des points d’ancrage éphémères, nous permettant de prendre part à nos compétitions à venir et de devenir, le temps d’un instant, les partenaires d’une performance collective.
 
 Nous ouvrons également nos pratiques au partage et à la transmission, à travers des services Pro Bono d’assistance, d’animation et de création de contenu : conférences, articles, podcasts, ateliers ou interventions. Autant de formats pour partager notre vision et faire vivre l’esprit qui nous anime.
@@ -308,11 +314,13 @@ Nous ouvrons également nos pratiques au partage et à la transmission, à trave
 👉 **Contactez-nous :** lesblaireauxdeslegendes[@]proton.me — [LinkedIn](https://www.linkedin.com/company/bdl-osint)
 
 ---
+<div align="center">
 
-> _« Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance… et un bon maté à 2h du matin 🧉»_
+  > _« Ce n’est pas le flair qui fait l’enquêteur, c’est la persévérance… et un bon maté à 2h du matin 🧉 »_
 
-— Un vieux blaireau 🦡
+### — Un vieux blaireau 🦡
+</div>
 
 ---
 
-#OSINT #Cybersecurity #CTF #Teamwork #LesBlaireauxDesLégendes #BDL #LegendaryBadgers
+##BDL OSINT #Cybersecurity #CTF #Teamwork #LesBlaireauxDesLégendes #LegendaryBadgers
