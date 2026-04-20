@@ -6,11 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge">
 
 ---
-> _« Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore ! »_
 
 <img width="433" src="https://github.com/user-attachments/assets/450f11b8-e82f-4f47-8acd-f828ab47baa8">
+> _« Animés par la curiosité, la rigueur et un goût prononcé pour les énigmes bien ficelées, nous traquons l’information là où elle se dissimule… et parfois même là où elle n’existe pas encore ! »_
 
-### Blaireau parfois, Légende toujours !
+### - Blaireau parfois, Légende toujours !
 
 </div>
 
