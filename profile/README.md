@@ -7,7 +7,7 @@
 
 ---
 
-### 🦡 Blaireau parfois, Légende toujours !
+### Blaireau parfois, Légende toujours !
 
 <img width="433" src="https://github.com/user-attachments/assets/450f11b8-e82f-4f47-8acd-f828ab47baa8">
 
@@ -17,7 +17,7 @@
 
 ---
 
-# 🔎 Qui sommes-nous ?
+# 🔎 Qui sommes-nous ? 🦡
 
 ∙ Fondée en 2024, **Les Blaireaux des Légendes** est née sous la forme d’un groupe informel réunissant des passionnés et professionnels de la cybersécurité et du renseignement en sources ouvertes (OSINT).
 
@@ -52,13 +52,14 @@
 
 # 🌐​ Le Terrier
 
-Le recrutement au sein de l’association est actuellement fermé et n’a pas vocation à être ouvert de manière continue. Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos missions. 
+**Le recrutement est actuellement fermé et n’a pas vocation à être ouvert de manière continue.**
+Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos missions. 
 
 Plutôt que d’adopter une logique de croissance des effectifs, nous privilégions une approche qualitative fondée sur la stabilité du groupe, le renforcement continu des compétences et la complémentarité de nos profils. 
 
 Cette posture garantit un cadre de travail rigoureux et soutient un haut niveau d’exigence opérationnelle, une méthodologie commune ainsi qu’une coordination fluide de nos activités, où la diversité des expertises constitue un levier essentiel d’efficacité collective. Elle s’appuie sur une forte cohésion interne, un esprit d’équipe affirmé et une communication fluide au sein d’un écosystème non hiérarchisé, où la collaboration et la responsabilité individuelle priment sur les structures verticales.
 
-L’association favorise donc le développement de partenariats avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses activités. Ces collaborations peuvent prendre différentes formes (partage de ressources, développement de projets conjoints, soutien ponctuel, échanges de visibilité, ainsi que mise à disposition, tests et évaluation d’outils).
+L’association favorise donc le développement de partenariats avec des acteurs partageant ses valeurs, afin de créer des synergies positives au service de ses activités. Ces collaborations peuvent prendre différentes formes (partage de ressources, développement de projets conjoints, soutien ponctuel, échanges de visibilité, mise à disposition, tests et évaluation d’outils).
 
 ## 🦡 Membres actifs
 Les membres actifs constituent la colonne vertébrale de l’organisation opérationnelle de l’association.
@@ -234,10 +235,9 @@ Dans un esprit de cohésion bienveillante, cette culture de l’exigence et de l
 
 # 🧩 Conception de challenges
 
-**Nous ne faisons pas que participer aux CTF, nous les concevons aussi !**
+**Participer aux CTF ne suffit pas : les concevoir fait aussi partie de notre démarche !**
 
-Nous croyons en un apprentissage par l’expérience, ancré dans des situations réalistes.
-Forts de nos compétences complémentaires et de notre savoir-faire opérationnel, nous concevons des défis gamifiés qui dépassent la simple évaluation technique pour devenir de véritables enquêtes immersives.
+Animés par la conviction que l’apprentissage passe par l’expérience, nous privilégions des mises en situation réalistes et immersives. Forts de compétences complémentaires et d’un savoir-faire éprouvé, nous concevons des défis gamifiés qui dépassent la simple évaluation technique pour devenir de véritables enquêtes immersives.
 
 Notre approche repose sur la création d’expériences scénarisées, construites autour de narrations solides et inspirées de nos expertises professionnelles respectives, en lien avec des enjeux contemporains tels que la désinformation, l’influence, les opérations informationnelles et les cybermenaces.
 
