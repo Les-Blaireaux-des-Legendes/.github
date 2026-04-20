@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🇬🇧 The Legendary Badgers | Les Blaireaux des Légendes 🇫🇷
+# 🇬🇧 The Legendary Badgers | [Les Blaireaux des Légendes](https://github.com/Les-Blaireaux-des-Legendes/) 🇫🇷
 ### 🧭 OSINT & Digital Investigation Collective
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Les-Blaireaux-des-Legendes&style=for-the-badge)
