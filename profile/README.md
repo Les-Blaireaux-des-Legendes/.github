@@ -103,7 +103,7 @@ Le recrutement de nos renforts repose exclusivement sur un système de parrainag
 ## 🎖 Vétérans
 Les vétérans sont d’anciens membres ayant contribué de manière notable aux activités de l’association. Bien qu’ils ne participent plus aux opérations courantes, leur engagement passé mérite d’être reconnu et mis à l’honneur.
 
-Ils constituent également un réseau d’appui informel, mobilisable ponctuellement pour apporter conseils, avis, retours d’expérience et éclairages. Ils contribuent ainsi à la continuité des travaux du collectif, en jouant un rôle de mémoire vivante et de vecteur de transmission des savoirs et des pratiques :
+Ils constituent également un réseau d’appui informel, mobilisable ponctuellement pour apporter conseils, retours d’expérience et éclairages. Ils contribuent ainsi à la continuité des travaux du collectif, en jouant un rôle de mémoire vivante et de vecteur de transmission des savoirs et des pratiques :
 
 <div align="center">
 
