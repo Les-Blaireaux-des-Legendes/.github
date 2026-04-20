@@ -53,6 +53,7 @@
 # 🌐​ Le Terrier
 
 **Le recrutement est actuellement fermé et n’a pas vocation à être ouvert de manière continue.**
+
 Cette décision s’inscrit dans une volonté de préserver la cohérence du groupe, la qualité des échanges internes et le niveau d’exigence opérationnel qui caractérise nos missions. 
 
 Plutôt que d’adopter une logique de croissance des effectifs, nous privilégions une approche qualitative fondée sur la stabilité du groupe, le renforcement continu des compétences et la complémentarité de nos profils. 
