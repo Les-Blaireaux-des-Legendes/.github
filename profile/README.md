@@ -136,7 +136,8 @@ Ils constituent également un réseau d’appui informel, mobilisable ponctuelle
 
 | Name |
 |:---:|
-| <img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"><br><strong>**Baboulinet**</strong><br><span style="font-size:12px"><a href="https://x.com/Baboulinet_Off/">Unleaded Badger</a></span> |
+| <img width="33" src="https://pbs.twimg.com/profile_images/1508313558932758531/KLtVlRWx_400x400.jpg"><br><span style="font-size:12px">_Unleaded Badger_</span>
+<strong>**[Baboulinet](https://x.com/Baboulinet_Off)**</strong><br>|
 
 </div>
 
