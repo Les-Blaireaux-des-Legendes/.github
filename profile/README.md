@@ -243,7 +243,7 @@ Chaque compétition constitue également un laboratoire : elle nous permet de co
 - Plus de **400 participants** engagés dans la compétition
 - Scénario immersif centré sur l’investigation en sources ouvertes et le renseignement
 - Victoire collective des **Blaireaux des Légendes**
-- Première compétition de **Pierre Bischetti** au sein de l’équipe
+- Première compétition de **Stealth Badger** au sein de l’équipe
 - Participation réalisée malgré de fortes contraintes professionnelles et opérationnelles pour plusieurs membres de l’équipe
 
 ---
