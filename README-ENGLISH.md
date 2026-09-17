@@ -242,7 +242,7 @@ Each competition also serves as a laboratory: it allows us to test our methods a
 * More than **400 participants** took part in the competition
 * Immersive scenario focused on open-source investigation and intelligence
 * Collective victory for **The Legendary Badgers**
-* First competition with **Pierre Bischetti** as part of the team
+* First competition with **Stealth Badger** as part of the team
 * Participation maintained despite significant professional and operational constraints for several members of the team
 
 ---
