@@ -37,7 +37,7 @@
 
 </div>
 
-🥇 **1st Place — Deep Threats — DGA OSINT Campus 2026** — 491 teams / 1,103 participants
+🥇 **1st Place — Deep Threats — DGA (French Ministry of Armed Forces) OSINT Campus 2026** — 491 teams / 1,103 participants
 
 🥇 **1st place — Le Caire, nid d’espions — SKOPEIN × EEIE 2026** — more than 400 participants
 
@@ -233,6 +233,19 @@ Our results are first and foremost built on a collective dynamic in which comple
 Each competition also serves as a laboratory: it allows us to test our methods against realistic situations, challenge our tools, question our assumptions and identify new areas for improvement.
 
 **The objective is not merely to perform, but to improve with every investigation.**
+
+---
+## <img width="52" src="https://github.com/user-attachments/assets/5d81a55b-f66c-4a95-81a5-2982db80caa6"> — Deep Threats — DGA OSINT Campus [2026]
+
+#### 🥇 1st Place — 491 teams / 1,103 participants
+
+* 100% OSINT CTF organized by the OSINT Campus of the DGA — French Directorate General for Armament
+* 72-hour investigation built around a scenario involving influence operations, geopolitics, industrial sovereignty, and strategic issues affecting the French Defence Industrial and Technological Base
+* More than 25 hours of investigation, carried out almost continuously
+* Completed the entire challenge with zero failed attempts and the fastest completion time
+* Ranked among the 15 teams selected for the final investigation report phase
+* Final investigation report awarded a perfect score of 100/100
+* 🥇 1st place overall following the final report evaluation
 
 ---
 
