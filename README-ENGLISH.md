@@ -37,6 +37,8 @@
 
 </div>
 
+🥇 **1st Place — Deep Threats — DGA OSINT Campus 2026** — 491 teams / 1,103 participants
+
 🥇 **1st place — Le Caire, nid d’espions — SKOPEIN × EEIE 2026** — more than 400 participants
 
 🥇 **1st place — HUNT EGE 2025** — 67 teams
