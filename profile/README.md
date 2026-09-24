@@ -37,6 +37,8 @@
 
 </div>
 
+🥇 **1re place — Deep Threats — Campus OSINT de la DGA 2026** — 491 équipes / 1 103 participants
+
 🥇 **1re place — Le Caire, nid d’espions — SKOPEIN × EEIE 2026** — plus de 400 participants 
 
 🥇 **1re place — HUNT EGE 2025** — 67 équipes
@@ -233,6 +235,20 @@ Chaque compétition constitue également un laboratoire : elle nous permet de co
 
 **L’objectif n’est pas uniquement de performer, mais de progresser à chaque enquête.**
 
+---
+
+## <img width="52" src="https://github.com/user-attachments/assets/5d81a55b-f66c-4a95-81a5-2982db80caa6"> — Deep Threats — Campus OSINT de la DGA/Ministère des Armées [2026]
+
+#### 🥇 1re place — 491 équipes inscrites / 1 103 participants
+
+* CTF OSINT organisé par le Campus OSINT de la DGA — Direction générale de l’armement
+* 72 heures d’investigation autour d’un scénario mêlant influence, géopolitique, souveraineté industrielle et enjeux liés à la BITD française
+* Plus de 25 heures d’investigation menées quasiment sans interruption
+* Parcours réalisé sans erreur (0 Fail) avec le meilleur temps de résolution
+* Qualification parmi les 15 équipes retenues pour la phase finale de rédaction du rapport d’investigation
+* Rapport final évalué à 100/100
+* 🥇 1re place au classement définitif à l’issue de l’évaluation des rapports
+  
 ---
 
 ## <img width="52" src="https://github.com/user-attachments/assets/2ba78746-aa4f-4a70-9c59-4a2ab6292636"> — Le Caire, nid d’espions — SKOPEIN × EEIE [2026]
