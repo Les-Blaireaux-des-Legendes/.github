@@ -264,6 +264,18 @@ Chaque compétition constitue également un laboratoire : elle nous permet de co
 
 ---
 
+## 🌲 — L'Appel de la Forêt — TacOSINT [2026]
+
+#### 4e place — 202 équipes inscrites / 448 joueurs
+
+* CTF OSINT organisé par [Tacosint](https://www.linkedin.com/company/tacosint/), porté par un scénario original, dense et riche en rebondissements
+* **67 challenges** répartis sur neuf jours d'investigation
+* Histoire principale et quêtes annexes **bouclées en deux jours et demi**, avec une équipe réduite
+* Seulement **30 équipes sur 202** ont terminé l'enquête
+* Podium manqué de peu : départage au temps et au nombre d'erreurs face à trois parcours sans faute
+
+---
+
 ## <img width="52" src="https://github.com/user-attachments/assets/e45ab244-c7c8-4778-a2ab-8d44d10695d1"/> — CTF HUNT EGE — École de guerre économique [2025]
 
 #### 🥇 1re place sur 67 équipes
