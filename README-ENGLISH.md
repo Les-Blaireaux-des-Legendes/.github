@@ -217,6 +217,7 @@ We thank them for their trust and commitment alongside us.
 |:---:|:---:|:---:|
 | <div align="center"><img width="45" src="https://github.com/user-attachments/assets/21e25d97-86ff-40d0-820a-8be9672a8a45"/><br><strong>HexaPol</strong></div> | HexaPol is the first French organization dedicated to securing armories and managing regulated equipment. As part of the HEXA group, it develops solutions combining security, organization and traceability, tailored to the operational needs of its clients. | [Hexa Group](https://hexapol.com/a-propos/) |
 | <div align="center"><img width="33" src="https://hackolyte.fr/wp-content/uploads/2024/09/cropped-cropped-logo.png"/><br><strong>Hackolyte</strong></div> | French non-profit association dedicated to promoting cybersecurity through an ethical and collaborative approach. Hackolyte brings together experts, enthusiasts and amateurs around information-security challenges. | [Hackolyte](https://github.com/HACK-OLYTE) |
+|    <div align="center"><img width="33" src="https://github.com/user-attachments/assets/1b7b7e6f-561a-474b-ab21-a38481839867"/><br><strong>Tactical OSINT Academy</strong></div>   |Tactical OSINT Academy is a training organization specializing in Open Source Intelligence (OSINT). Tactical OSINT Academy provides specialized training and investigative tools for cybersecurity professionals, intelligence analysts, and law enforcement agencies. |  [Tactical OSINT Academy](https://tactical-osint-academy.com) |
 
 </div>
 
